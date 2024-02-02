@@ -3,10 +3,8 @@
   You can download the NEW Metrobank App from any of the following:
   - [Google Play](https://play.google.com/store/apps/details?id=ph.com.metrobank.mcc.mbonline)
     ![Google Play](https://web-assets.metrobank.com.ph/1606384322-googleplay-button-scl-4v2-with-space.png)
-
   - [Apple Store](https://apps.apple.com/ph/app/metrobank-app/id1536081176)
     ![Apple Store](https://web-assets.metrobank.com.ph/1622090351-apple-store-logo.png)
-
   - [Huawei AppGallery](https://appgallery.huawei.com/app/C103071673)
     ![Huawei AppGallery](https://web-assets.metrobank.com.ph/1622092674-huawei-button-scl-4-with-space.png)
 </details>
@@ -23,7 +21,6 @@
 
 <details>
   <summary>Can I sign up without a deposit account?</summary>
-
   You can sign up to the NEW Metrobank App without a Metrobank deposit account, provided that you have one of these:
 
   - A Metrobank credit card
@@ -35,9 +32,7 @@
 
 <details>
   <summary>I tried to sign up on the NEW Metrobank App but an error occurred. What should I do?</summary>
-
   If this is your first time signing up and the error screen below appears, tap on “Check Details” and verify your account details such as name, date of birth, or contact number.
-  ![Error](https://web-assets.metrobank.com.ph/1670823783-image-1-issue-something-went-wrong.jpg)
 
   If you are signing up using a Metrobank current or savings account, credit card account, Metrobank prepaid card, or YAZZ prepaid card, make sure your account is active. 
 
@@ -49,7 +44,7 @@
 <details>
   <summary>When I try to sign up, I get the error: “Mobile Number / Email are invalid. Please provide another.” What do I do?</summary>
   If the error screen below appears during sign up, make sure the mobile number and email address you provide match what you registered when you opened your account and that no account is using the same mobile number or email address.
-
+  ![Error](https://web-assets.metrobank.com.ph/1672278815-mobile-number_email-address-invalid.jpeg)
 
   If you need to update your registered details of your checking or deposit account, you may update your registered details through our online platform. Please refer to [Update Your MB Contact Info Online](https://www.metrobank.com.ph/articles/update-your-mb-contact-info-online).
 
@@ -67,10 +62,14 @@
   <summary>I forgot my username and/or password, how do I recover them?</summary>
   <details>
     <summary><b>How to recover your username:</b></summary>
-    → 1. On the login screen, tap “Recover Access”
+    1. On the login screen, tap “Recover Access”
+
     2. Tap on “I forgot my username”
+
     3. Select where you would like to receive your username and tap "Proceed"
+
     4. Enter your passcode
+
     5. You will receive the username via either your mobile number or email address, depending on the channel you selected.
   </details>
 
