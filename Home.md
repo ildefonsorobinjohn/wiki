@@ -1,4 +1,4 @@
-# METROBANK HELPDESK SUPPORT
+# METROBANK - YOUR IN GOOD HANDS!
 
 Welcome to my wiki! Here are some topics:
 
