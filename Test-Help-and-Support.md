@@ -15,12 +15,32 @@
 </details>
 <details>
   <summary>What valid IDs can I present?</summary>
+Examples of valid IDs include the following:
+a. Philippine Identification Card (PhilID)
+b. Passport (including those issued by foreign governments)
+c. Driver’s License
+d. Professional Regulation Commission ID
+e. Postal Identity Card
+f. Voter’s ID
+g. GSIS e-Card
+h. Social Security System card or Unified Multi-Purpose ID
+i. Senior Citizen Card
+j. Overseas Filipino Worker ID or e-card
+k. Seaman’s Book
+l. Alien Certificate of Registration or Immigrant Certificate of Registration (for foreign individuals)
+m. Government Office and Government Owned and Controlled Corporations ID (e.g. BSP, SEC, Insurance Commission)
+n. Persons with Disabilities (PWD) ID issued by the National Council on Disability Affairs
+o. Integrated Bar of the Philippines ID
+p. Photo-bearing School ID duly signed by the principal or head of school for Filipino students who are not of voting age
+q. Company ID (if signature bearing) issued by Covered Person registered with or supervised/regulated by BSP, SEC or Insurance Commission
 </details>
 <details>
   <summary>How much is the maintaining balance?</summary>
+We offer a variety of deposit products to suit your financial needs. Click this [link](https://www.metrobank.com.ph/application-requirements) to see our deposit products and their corresponding maintaining balances.
 </details> 
 <details>
   <summary>I am a US citizen and would like to open an account. What are the requirements?</summary>
+Visit any nearest Metrobank branch, bring your passport or Alien Certificate of Registration (ACR), and the initial deposit requirement.
 </details>
 
 ## ATMs, CAMs, and Branch
