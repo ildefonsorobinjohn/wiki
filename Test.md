@@ -1,4 +1,5 @@
 
+
 <details>
   <summary>What do I need to do before the new app is launched?</summary>
 
@@ -11,6 +12,287 @@
   | If you have scheduled transactions on the old app      | To prevent duplicate transactions on your accounts, all scheduled transactions on the old app after December 15, 2022, are canceled.                                      | For your scheduled transactions to continue uninterrupted, please enroll them on Metrobank Online by the said date, otherwise, you may enroll them again manually once you download the new app. |
   | If you have accounts, billers, and payees on the old app | Your accounts, payees, and billers on your old app and Metrobank Online accounts will automatically be on the new app. | Note that starting November...
 </details>
+
+<details>
+  <summary>Why are there two different apps?</summary>
+
+  The NEW Metrobank App offers a mobile banking experience that is smart, simple, and secure with better integration with Metrobank Online.
+
+  You can still use the old Metrobank Mobile App, but some of its features are now disabled. We will also remove it from app stores soon as the app ends its service.
+</details>
+
+<details>
+  <summary>How secure is the NEW Metrobank App?​</summary>
+
+  The NEW Metrobank App complies with the best security practices to protect your account information and bank transactions through:
+
+  * User ID and password login
+  * Biometrics login
+  * SMS verification code and/or Passcode for financial transactions
+  * Two-factor (SMS and email) verification codes to add registered device
+  * Email and SMS notifications for critical transactions
+  * Firewall protection
+  * Message encryption
+  * Device authentication
+</details>
+
+<details>
+  <summary>What is a verification code?</summary>
+
+  A verification code or One-Time Password (OTP) is a single-use, random, 6-digit numeric code you use to authenticate a transaction. This can be an email or SMS one-time password (OTP) code and is valid for only 5 minutes.
+
+  You can request for a new one-time password (OTP) code by tapping _Resend_.
+</details>
+
+<details>
+  <summary>What are biometrics?</summary>
+
+  Depending on your phone, you can use biometrics such as touch ID / fingerprint or facial recognition to log in to the NEW Metrobank App.
+
+  Note that you can only use this feature on one registered device. If you enable it on a new device, the app will automatically deactivate it on your current device and register the new device on your user profile.
+</details>
+
+<details>
+  <summary>What should I do if I can’t enroll my biometrics?</summary>
+
+  Check if you have enrolled biometrics in your phone settings and if your phone supports biometrics.
+</details>
+
+<details>
+  <summary>If I change my mobile phone, can I still use the NEW Metrobank App?</summary>
+
+  Yes. Just download the app on your new device and log in. The app will require you to do a two-step verification process. First, you will need to verify your registered mobile number, and then your email address. You will receive these verification codes, so enter these in the app to authenticate your new device.
+</details>
+
+<details>
+  <summary>What should I do if I lose my mobile device?</summary>
+
+  If your mobile device is lost or stolen, call our Contact Center at (02) 88-700-700 or domestic toll-free: 1-800-1888-5775 to deactivate your account.
+
+  To reactivate your account, call our Contact Center and have your mobile number updated.
+</details>
+
+<details>
+  <summary>If my transaction is not yet reflected after 2 to 3 banking days, what should I do?</summary>
+
+  Call our Contact Center at (02) 88-700-700 or domestic toll-free: 1-800-1888-5775 for assistance.
+</details>
+
+<details>
+  <summary>Can I buy load, send remittance via Cash Pick-Up, do Cardless Withdrawal, Order Checkbook, apply for Auto Debit Arrangement in the NEW Metrobank App?</summary>
+
+  These features and more will be added to the NEW Metrobank App and Metrobank Online in the future.
+
+  For the meantime, you can buy load, do a cardless withdrawal, order a checkbook using Metrobank Online at [https://onlinebanking.metrobank.com.ph](https://onlinebanking.metrobank.com.ph), and you can send remittance via Cash Pick-Up using the old Metrobank Mobile App.
+</details>
+
+<details>
+  <summary>Can I install the NEW Metrobank App on multiple devices?</summary>
+
+  Yes. Just register your new device and enter the verification codes sent to your registered mobile number and email address.
+</details>
+
+<details>
+  <summary>Will the NEW Metrobank App work even if I’m overseas?</summary>
+
+  Yes. Though for transactions that require SMS verification codes, make sure your registered Philippine-issued mobile is activated for international roaming.
+
+  Do also check if your telecommunication provider overseas allows you to receive SMS from the Philippines.
+</details>
+
+<details>
+  <summary>Does it matter if I use the NEW Metrobank App or Metrobank Online for my transactions?</summary>
+
+  You can do your transactions on the NEW Metrobank App or Metrobank Online. They share the same accounts overview, transaction history (up to 90 days) as well as scheduled transactions. You will be able to see your accounts on both platforms; however, one might have features not present in the other.
+</details>
+
+<details>
+  <summary>Can I keep using the old Metrobank Mobile App?</summary>
+
+  You can continue using the Metrobank Mobile App after you log in to the NEW Metrobank App.
+
+  Do note that some of the features on the Metrobank Mobile App are now disabled because it will soon end its service.
+</details>
+
+<details>
+  <summary>How can I delete my user profile on the Metrobank App?</summary>
+
+  To delete your online banking account, call our Contact Center at (02) 88-700-700 or our domestic toll-free number at 1-800-1888-5775.
+
+  Note that if you delete your online banking account, you will not be able to access Metrobank Online and the NEW Metrobank App.
+
+  After deletion, you can create a new online banking account. However, you will have to re-enroll your accounts, credit cards, billers, and contacts.
+</details>
+
+<details>
+  <summary>I am the secondary accountholder of a joint-or account. Can I enroll my account in online banking?</summary>
+
+  Yes, you can enroll your account on Metrobank Online and the Metrobank App. Visit this [link](https://www.metrobank.com.ph/articles/mb-app-how-to) to learn more.
+</details>
+
+<details>
+  <summary>Can both accountholders in a joint-or account sign up for an online banking account?</summary>
+
+  Yes, as long as:
+
+  1. The primary and secondary accountholders have different mobile numbers registered with the bank.
+  2. The mobile number of the secondary account should be up to date in bank records. If you need to update it, you may do so at your branch of account.
+</details>
+
+<details>
+  <summary>How do I find the nearest Branch, ATM and CAM through the Metrobank App?</summary>
+
+  From the login screen, slide up the bottom arrow to access “Other Actions” menu. Tap on “Branch, ATM, CAM Locator” and follow the prompts to be sent to the Branch, ATM, and CAM locator page on our website.
+</details>
+
+<details>
+  <summary>How do I get forex rates via the Metrobank App?</summary>
+
+  From the login screen, slide up the bottom arrow to access “Other Actions” menu. Click on Forex Rates and follow the on-screen instructions.
+
+  You can also tap to the hamburger menu after logging in and tap “Forex Rates.”
+</details>
+
+<details>
+  <summary>Why are there two different apps?</summary>
+
+  The NEW Metrobank App offers a mobile banking experience that is smart, simple, and secure with better integration with Metrobank Online.
+
+  You can still use the old Metrobank Mobile App, but some of its features are now disabled. We will also remove it from app stores soon as the app ends its service.
+</details>
+
+<details>
+  <summary>How secure is the NEW Metrobank App?​</summary>
+
+  The NEW Metrobank App complies with the best security practices to protect your account information and bank transactions through:
+
+  * User ID and password login
+  * Biometrics login
+  * SMS verification code and/or Passcode for financial transactions
+  * Two-factor (SMS and email) verification codes to add registered device
+  * Email and SMS notifications for critical transactions
+  * Firewall protection
+  * Message encryption
+  * Device authentication
+</details>
+
+<details>
+  <summary>What is a verification code?</summary>
+
+  A verification code or One-Time Password (OTP) is a single-use, random, 6-digit numeric code you use to authenticate a transaction. This can be an email or SMS one-time password (OTP) code and is valid for only 5 minutes.
+
+  You can request for a new one-time password (OTP) code by tapping _Resend_.
+</details>
+
+<details>
+  <summary>What are biometrics?</summary>
+
+  Depending on your phone, you can use biometrics such as touch ID / fingerprint or facial recognition to log in to the NEW Metrobank App.
+
+  Note that you can only use this feature on one registered device. If you enable it on a new device, the app will automatically deactivate it on your current device and register the new device on your user profile.
+</details>
+
+<details>
+  <summary>What should I do if I can’t enroll my biometrics?</summary>
+
+  Check if you have enrolled biometrics in your phone settings and if your phone supports biometrics.
+</details>
+
+<details>
+  <summary>If I change my mobile phone, can I still use the NEW Metrobank App?</summary>
+
+  Yes. Just download the app on your new device and log in. The app will require you to do a two-step verification process. First, you will need to verify your registered mobile number, and then your email address. You will receive these verification codes, so enter these in the app to authenticate your new device.
+</details>
+
+<details>
+  <summary>What should I do if I lose my mobile device?</summary>
+
+  If your mobile device is lost or stolen, call our Contact Center at (02) 88-700-700 or domestic toll-free: 1-800-1888-5775 to deactivate your account.
+
+  To reactivate your account, call our Contact Center and have your mobile number updated.
+</details>
+
+<details>
+  <summary>If my transaction is not yet reflected after 2 to 3 banking days, what should I do?</summary>
+
+  Call our Contact Center at (02) 88-700-700 or domestic toll-free: 1-800-1888-5775 for assistance.
+</details>
+
+<details>
+  <summary>Can I buy load, send remittance via Cash Pick-Up, do Cardless Withdrawal, Order Checkbook, apply for Auto Debit Arrangement in the NEW Metrobank App?</summary>
+
+  These features and more will be added to the NEW Metrobank App and Metrobank Online in the future.
+
+  For the meantime, you can buy load, do a cardless withdrawal, order a checkbook using Metrobank Online at [https://onlinebanking.metrobank.com.ph](https://onlinebanking.metrobank.com.ph), and you can send remittance via Cash Pick-Up using the old Metrobank Mobile App.
+</details>
+
+<details>
+  <summary>Can I install the NEW Metrobank App on multiple devices?</summary>
+
+  Yes. Just register your new device and enter the verification codes sent to your registered mobile number and email address.
+</details>
+
+<details>
+  <summary>Will the NEW Metrobank App work even if I’m overseas?</summary>
+
+  Yes. Though for transactions that require SMS verification codes, make sure your registered Philippine-issued mobile is activated for international roaming.
+
+  Do also check if your telecommunication provider overseas allows you to receive SMS from the Philippines.
+</details>
+
+<details>
+  <summary>Does it matter if I use the NEW Metrobank App or Metrobank Online for my transactions?</summary>
+
+  You can do your transactions on the NEW Metrobank App or Metrobank Online. They share the same accounts overview, transaction history (up to 90 days) as well as scheduled transactions. You will be able to see your accounts on both platforms; however, one might have features not present in the other.
+</details>
+
+<details>
+  <summary>Can I keep using the old Metrobank Mobile App?</summary>
+
+  You can continue using the Metrobank Mobile App after you log in to the NEW Metrobank App.
+
+  Do note that some of the features on the Metrobank Mobile App are now disabled because it will soon end its service.
+</details>
+
+<details>
+  <summary>How can I delete my user profile on the Metrobank App?</summary>
+
+  To delete your online banking account, call our Contact Center at (02) 88-700-700 or our domestic toll-free number at 1-800-1888-5775.
+
+  Note that if you delete your online banking account, you will not be able to access Metrobank Online and the NEW Metrobank App.
+
+  After deletion, you can create a new online banking account. However, you will have to re-enroll your accounts, credit cards, billers, and contacts.
+</details>
+
+<details>
+  <summary>I am the secondary accountholder of a joint-or account. Can I enroll my account in online banking?</summary>
+
+  Yes, you can enroll your account on Metrobank Online and the Metrobank App. Visit this [link](https://www.metrobank.com.ph/articles/mb-app-how-to) to learn more.
+</details>
+
+<details>
+  <summary>Can both accountholders in a joint-or account sign up for an online banking account?</summary>
+
+  Yes, as long as:
+
+  1. The primary and secondary accountholders have different mobile numbers registered with the bank.
+  2. The mobile number of the secondary account should be up to date in bank records. If you need to update it, you may do so at your branch of account.
+</details>
+
+<details>
+  <summary>How do I find the nearest Branch, ATM and CAM through the Metrobank App?</summary>
+
+  From the login screen, slide up the bottom arrow to access “Other Actions” menu. Tap on “Branch, ATM, CAM Locator” and follow the prompts to be sent to the Branch, ATM, and CAM locator page on our website.
+</details>
+
+<details>
+  <summary>How do I get forex rates via the Metrobank App?</summary>
+
+  From the login screen, slide up the bottom arrow to access “Other Actions” menu. Click on Forex Rates and follow the on-screen instructions.
+
+  You can also tap to the hamburger menu after logging in and tap “Forex Rates.”
+</details>
+
 
 <details>
   <summary>Why should I switch to the NEW Metrobank App?</summary>
