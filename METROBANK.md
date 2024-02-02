@@ -1,4 +1,4 @@
-# METROBANK - YOU'RE IN GOOD HANDS!
+# YOU'RE IN GOOD HANDS!
 
 Welcome to my wiki! Here are some topics:
 
