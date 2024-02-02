@@ -1,5 +1,17 @@
 # Frequently Asked Questions
 
+## Cardless Withdrawal
+
+<details>
+  <summary>How do I open an account?</summary>
+   Visit any Metrobank branch to open an account. You will be required to submit one valid, photo-bearing ID with your signature and the 
+   initial deposit of the account you want to open. Check the complete list [here](https://www.metrobank.com.ph/articles/application- 
+   requirements).
+ 
+   You are required to fill up a mandatory [Customer Information Form](https://web-assets.metrobank.com.ph/1622704408-cif-individual.pdf) 
+   that will go with your other account requirements.
+</details>
+
 ## Accounts
 
 <details>
