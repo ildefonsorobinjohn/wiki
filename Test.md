@@ -21,9 +21,9 @@
 <details>
   <summary>What are the ATM withdrawal fees and limits?</summary>
   See our ATM fees below:
-  - **Metrobank**
+  - Metrobank
     - Balance inquiry and withdrawal -- Free
-  - **PSBank**
+  - PSBank
     - Balance inquiry -- Free
     - Withdrawal -- PHP 7.50
   - **Other cards**
