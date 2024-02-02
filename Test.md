@@ -163,3 +163,13 @@
   The NEW Metrobank App is our latest banking app that is linked to Metrobank Online and can be used on your mobile device. Its smart features let you get more from your credit and prepaid cards, and also has a new, customizable look and feel. It’s smart. It’s simple. It’s secure. It’s the NEW Metrobank App!
 </details>
 
+<details>
+  <summary>Why are there two different apps?</summary>
+
+  The NEW Metrobank App offers a mobile banking experience that is smart, simple, and secure with better integration with Metrobank Online.
+
+  You can still use the old Metrobank Mobile App, but some of its features are now disabled. We will also remove it from app stores soon as the app ends its service.
+</details>
+
+
+
