@@ -154,5 +154,14 @@
   <ul>
     <li>Pay Bills – Use your credit card to pay bills for selected bill
 
+<details>
+  <summary>What is the difference between Metrobank Online, the Metrobank Mobile Banking App, and the NEW Metrobank App?</summary>
+  Metrobank Online is our online platform which allows you to do your banking on a browser on any device, whether it’s a personal computer, a laptop, a tablet, or a mobile phone.
+
+  The Metrobank Mobile App is our current banking app which lets you do transactions using your checking and savings accounts on your mobile phone.
+
+  The NEW Metrobank App is our latest banking app that is linked to Metrobank Online and can be used on your mobile device. Its smart features let you get more from your credit and prepaid cards, and also has a new, customizable look and feel. It’s smart. It’s simple. It’s secure. It’s the NEW Metrobank App!
+</details>
+
 
 
