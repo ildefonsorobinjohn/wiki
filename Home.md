@@ -2,6 +2,6 @@
 
 Welcome to my wiki! Here are some topics:
 
-- [Page 1](wiki/How-to-budget-and-save-money)
+- [How to budget and save money](wiki/How-to-budget-and-save-money)
 - [Page 2](wiki/Page-2)
 - [Page 3](wiki/Page-3)
