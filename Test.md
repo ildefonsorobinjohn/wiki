@@ -791,7 +791,19 @@
 <details>
   <summary>How can I send money via InstaPay?</summary>
 
-  You must be enrolled in Metrobank Online and the Metrobank Mobile App to send money via InstaPay.\n\nUsing your Metrobank Online:\n\na. Select "Send Money" tab\u003cbr/\u003e\nb. Choose the destination bank.\u003cbr/\u003e\nc. Fill-out the recipient details, amount, and source account.\u003cbr/\u003e\n\nFor the Metrobank Mobile App:\n\na. Choose "Transfer to Other Bank" from the menu.\u003cbr/\u003e\nb. Select "InstaPay".\u003cbr/\u003e\nc. Click Transfer button under "One-Time Transfer."\u003cbr/\u003e\nd. Fill-out the recipient details, choose source account, and input amount.\u003cbr/\u003e \ne. To authenticate your transactions, a one-time password (OTP) will be sent to your registered mobile number.
+  You must be enrolled in Metrobank Online and the Metrobank Mobile App to send money via InstaPay.
+  
+  Using your Metrobank Online:
+  a. Select "Send Money" tab
+  b. Choose the destination bank.
+  c. Fill-out the recipient details, amount, and source account.
+  
+  For the Metrobank Mobile App:
+  a. Choose "Transfer to Other Bank" from the menu.
+  b. Select "InstaPay".
+  c. Click Transfer button under "One-Time Transfer."
+  d. Fill-out the recipient details, choose source account, and input amount.
+  e. To authenticate your transactions, a one-time password (OTP) will be sent to your registered mobile number.
 </details>
 
 <details>
@@ -845,7 +857,9 @@
 <details>
   <summary>What is PESONet?</summary>
 
-  PESONet is a fund transfer service available through the Send Money feature of Metrobank Online, where you can transfer money to other bank accounts.\n\nPESONet lets customers of participating banks, e-money issuers or mobile money operators to transfer funds in Philippine peso to customers of other participating banks, e-money issuers or mobile money operators in the Philippines.
+  PESONet is a fund transfer service available through the Send Money feature of Metrobank Online, where you can transfer money to other bank accounts.
+  
+  PESONet lets customers of participating banks, e-money issuers or mobile money operators to transfer funds in Philippine peso to customers of other participating banks, e-money issuers or mobile money operators in the Philippines.
 </details>
 
 <details>
@@ -869,19 +883,40 @@
 <details>
   <summary>How long does it take to transfer funds via PESONet?</summary>
 
-  Funds can be made available to the recipient account/s within the day if the transaction was made before 3:00 PM. If the transaction was made after 3:00 PM, it is processed and credited on the next banking day.\n\nFor the latest updates on PESONet fees and limits, please refer to https://metrobank.com.ph/rates-and-fees.
+  Funds can be made available to the recipient account/s within the day if the transaction was made before 3:00 PM. If the transaction was made after 3:00 PM, it is processed and credited on the next banking day.
+  
+  For the latest updates on PESONet fees and limits, please refer to https://metrobank.com.ph/rates-and-fees.
 </details>
 
 <details>
   <summary>What is QR Ph?</summary>
 
-  QR Ph is a quick, low-cost, and safe method to pay, transfer, and receive funds from other banks and e-money accounts in the Philippines.\n\nIt was launched last November 2019 as the National QR Code standard by the Philippine Payments Management, Inc. (PPMI), under the guidance of the Bangko Sentral ng Pilipinas (BSP).
+  QR Ph is a quick, low-cost, and safe method to pay, transfer, and receive funds from other banks and e-money accounts in the Philippines.
+  
+  It was launched last November 2019 as the National QR Code standard by the Philippine Payments Management, Inc. (PPMI), under the guidance of the Bangko Sentral ng Pilipinas (BSP).
 </details>
 
 <details>
   <summary>How can I pay merchants via QR Ph?</summary>
 
-  You can pay merchants via QR Ph in real time with a Metrobank Online account. Just follow the steps below:\n1.\tSelect “QR Code” on the lower dashboard menu\n2.\tChoose “Scan or Upload QR Code” and select “Next” to proceed\n3.\tScan or upload the Merchant QR Ph Code to proceed\n4.\tFill out or validate the following information on the screen and click “Next”\u003cbr\u003e\n    a)\tAmount\u003cbr\u003e\n    b)\tMerchant Type\u003cbr\u003e\n    c)\tSource Account\u003cbr\u003e\n5.\tReview and confirm the transactions details then click “Continue”\n6.\tEnter your Metrobank Passcode and SMS One-Time Password (OTP) to authorize the transaction.\n\nAfter following these steps, you will receive confirmation that your transaction is successful.
+  You can pay merchants via QR Ph in real time with a Metrobank Online account. Just follow the steps below:
+
+  1. Select “QR Code” on the lower dashboard menu
+
+  2. Choose “Scan or Upload QR Code” and select “Next” to proceed
+
+  3. Scan or upload the Merchant QR Ph Code to proceed
+
+  4. Fill out or validate the following information on the screen and click “Next”:
+
+    a) Amount
+    b) Merchant Type
+    c) Source Account
+  5. Review and confirm the transactions details then click “Continue”
+
+  6. Enter your Metrobank Passcode and SMS One-Time Password (OTP) to authorize the transaction.
+  
+  After following these steps, you will receive confirmation that your transaction is successful.
 </details>
 
 <details>
@@ -893,7 +928,34 @@
 <details>
   <summary>Who are the banks/financial institutions capable of receiving merchant payments via QR Ph?</summary>
 
-  These are the receiving participants based on BSP’s list as of April 2022:\n•\tAllBank, Inc.\u003cbr\u003e\n•\tAsia United Bank Corporation\u003cbr\u003e\n•\tBDO Unibank, Inc\u003cbr\u003e\n•\tCard Bank, Inc\u003cbr\u003e\n•\tCebuana Lhuiller Rural Bank\u003cbr\u003e\n•\tG-Xchange, Inc.\u003cbr\u003e\n•\tMetropolitan Bank and Trust Company\u003cbr\u003e\n•\tPayMaya Philippines, Inc.\u003cbr\u003e\n•\tRizal Commercial Banking Corporation\u003cbr\u003e\n•\tRobinsons Bank Corporation\u003cbr\u003e\n•\tStarpay Corporation\u003cbr\u003e\n•\tTayoCash, Inc.\u003cbr\u003e\n•\tUSSC Money Services, Inc.\u003cbr\u003e\n•\tZybi Tech, Inc\u003cbr\u003e
+  These are the receiving participants based on BSP’s list as of April 2022:
+  • AllBank, Inc.
+
+  • Asia United Bank Corporation
+
+  • BDO Unibank, Inc
+
+  • Card Bank, Inc
+
+  • Cebuana Lhuiller Rural Bank
+
+  • G-Xchange, Inc.
+
+  • Metropolitan Bank and Trust Company
+
+  • PayMaya Philippines, Inc.
+
+  • Rizal Commercial Banking Corporation
+
+  • Robinsons Bank Corporation
+
+  • Starpay Corporation
+
+  • TayoCash, Inc.
+
+  • USSC Money Services, Inc.
+
+  • Zybi Tech, Inc
 </details>
 
 <details>
@@ -917,7 +979,12 @@
 <details>
   <summary>How will I know if my payment is in-progress, successful, or failed?</summary>
 
-  After you pay via QR Ph, you get an on-screen message on Metrobank Online that says “In-Progress,” “Success,” or “Failed.”\n\nYou also receive notifications via:\u003cbr\u003e\n•\tAn SMS to your bank registered mobile number\u003cbr\u003e\n•\tAn email to your bank registered email\u003cbr\u003e\n•\tA message in your Metrobank Online inbox\u003cbr\u003e
+  After you pay via QR Ph, you get an on-screen message on Metrobank Online that says “In-Progress,” “Success,” or “Failed.”
+  
+  You also receive notifications via:
+  • An SMS to your bank registered mobile number
+  • An email to your bank registered email
+  • A message in your Metrobank Online inbox
 </details>
 
 <details>
@@ -944,5 +1011,125 @@
   When you pay via a dynamic QR, you access the merchant’s QR facility where you are automatically shown the amount you have to pay. You cannot edit the amount when paying through this method.
 </details>
 
+<details>
+  <summary>Can I use my foreign currency deposit accounts as a source account for merchant payments?</summary>
+
+  No. You can only use Philippine peso accounts for payments via QR Ph.
+</details>
+
+<details>
+  <summary>Can I save a merchant as a “Contact?”</summary>
+
+  No. You cannot save accounts you transact with using QR Ph as Metrobank Online contacts.
+</details>
+
+<details>
+  <summary>Can I schedule my merchant payments via QR?</summary>
+
+  No. You cannot schedule payments to merchants using QR Ph. It is only used for single transactions.
+</details>
+
+<details>
+  <summary>How can I delete my user profile on Metrobank Online?</summary>
+
+  To delete your profile, call our Contact Center at (02) 88-700-700 or our domestic toll-free number at 1-800-1888-5775.
+
+  Note that if you delete your profile, you will not be able to access Metrobank Online and the Metrobank Mobile App.
+
+  After deletion, you can create a new user profile. However, you will have to re-enroll your accounts, credit cards, billers, and contacts.
+</details>
+
+<details>
+  <summary>What are the main features of Metrobank Online compared to the Metrobank Mobile App?</summary>
+
+  The table below is a comparison of features and services that are available on each online banking platform:
+  ![Metrobank Online vs. Mobile App](https://web-assets.metrobank.com.ph/1664925667-mbo-faqs-update.png)
+
+  For more details, go to metrobank.com.ph/manage/digital-services
+</details>
+
+<details>
+  <summary>Why am I getting a prompt that says “Your account is ineligible” in Metrobank Online and the Metrobank App?</summary>
+
+  You’re seeing this error message because your account type has a product code and/or relationship code that is/are not allowed or has/have limited access to the features of Metrobank Online and the Metrobank App.
+
+  It is highly likely that your account type is non-individual in nature and is not for active or personal use. These account types include, but are not limited to, commercial accounts; third party access accounts; sole proprietorship accounts; and accounts that are inactive in status.
+
+  If you previously had access to your account in Metrobank Online and the Metrobank App, this means that there was a recent change in your account type, which is usually due to an update that was initiated by your branch of account.
+
+  Should you have questions or concerns about your account, you may visit your branch of account or you may reach us via the Metrobank 24/7 Customer Hotline at (02) 88-700-700. For provincial areas, you may call 1-800-1888-5775 (toll-free).
+</details>
+
+<details>
+  <summary>What are the accounts that are not allowed or have limited access to Metrobank Online and the Metrobank App?</summary>
+
+  Below are the account types that have **limited access** to the features of Metrobank Online and the Metrobank App. Accountholders of these accounts can only view their balance and transaction history. All transactions must be done via their branch of account:
+  * In-Trust-For (ITF) Accounts
+  * Joint-AND Accounts
+
+  On the other hand, below are the account types that have **no access** to Metrobank Online and the Metrobank App. All transactions of these accounts must be done via the accountholder’s branch of account:
+  * Cash Cards
+  * Paycards
+  * Commercial Accounts
+  * Sole Proprietorship Accounts
+  * Third-party Accounts (Agent, Debtor, Guarantee, Guardian, Power of Atty., Pay on Death, Survivorship, Trust, Gift, etc.)
+  * Inactive Status Accounts
+
+  Alternatively, business/commercial accounts may use the Metrobank Business Online Solutions to monitor and do transactions in their account. If these accounts were once enrolled in Metrobank’s retail online banking platforms, it will now display “Unable to retrieve balance” or “Your account is ineligible.” If you encounter this prompt, you’re encouraged to register in Metrobank Business Online. For assistance on how to enroll your commercial account in MBOS, kindly coordinate with your branch of account or Relationship Manager.
+
+  Learn more about MBOS at [Metrobank Business Online Solutions](https://www.metrobank.com.ph/business/solutions/mbos).
+</details>
+
+<details>
+  <summary>If I have an account type that is not allowed in Metrobank Online and the Metrobank App, can I still use my other enrolled accounts for online banking?</summary>
+
+  Yes, you can continue using Metrobank Online and the Metrobank App for your other eligible retail accounts.
+</details>
+
+<details>
+  <summary>How should I know if my account type is or has become ineligible in Metrobank Online and the Metrobank App?</summary>
+
+  If you have an ineligible account, you will receive a prompt notification in Metrobank Online and/or the Metrobank App indicating “Unable to retrieve balance” or “Your account is ineligible.” This notification means you cannot view your balance or do any transactions through Metrobank Online or the Metrobank App.
+</details>
+
+<details>
+  <summary>What should I do if my account has become ineligible in Metrobank Online and the Metrobank App?</summary>
+
+  Please reach out to your branch of account or call the Metrobank 24/7 Customer Hotline at (02) 88-700-700 to guide you on how you can access your account and do transactions. Meantime, please delete or unenroll your ineligible account/s in Metrobank Online and the Metrobank App.
+</details>
+
+<details>
+  <summary>Why can’t I access my JOINT ‘AND’ account in Metrobank Online and the Metrobank App?</summary>
+
+  Since your joint account is classified as **JOINT ‘AND’**, all your transactions must be authorized by both account holders/signatories. Hence, your transactions must be done over the counter to ensure the security of your account.
+</details>
+
+<details>
+  <summary>Can I still access my JOINT ‘OR’ account in my Metrobank Online and the Metrobank App?</summary>
+
+  Yes, you and your co-account holder may access your JOINT-OR account in your respective online banking profile. This means all transactions will reflect in both your Metrobank Online and Metrobank App accounts.
+</details>
+
+<details>
+  <summary>I am the secondary accountholder of a joint-or account. Can I enroll my account in online banking?\u000b</summary>
+
+  Yes, you can enroll your account on Metrobank Online and the Metrobank App. Visit this [link](https://www.metrobank.com.ph/articles/mbo-how-to) to learn more.
+</details>
+
+<details>
+  <summary>If my commercial account is not allowed to be enrolled on Metrobank Online and the Metrobank App, what platform should I use for my online financial transactions?</summary>
+
+  You can enroll your business/commercial account in Metrobank Business Online Solutions (MBOS) to complete your financial transactions. For assistance on how to enroll your commercial account in MBOS, kindly coordinate with your branch of account or Relationship Manager.
+
+  Learn more about MBOS at [Metrobank Business Online Solutions](https://www.metrobank.com.ph/business/solutions/mbos).
+</details>
+
+<details>
+  <summary>If I enroll my commercial account to Metrobank Business Online Solutions (MBOS), can I still send money to other banks?</summary>
+
+  Yes, you may still send money to other banks. Fund transfer transactions done in MBOS will be coursed through PESONet.
+
+  _Note: PESONet is up to PHP 200,000 with daily cut-offs at 10 AM \u0026 3 PM (on a banking day except holidays)._
+</details>
 
 
