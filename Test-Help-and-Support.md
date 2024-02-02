@@ -41,6 +41,38 @@ We offer a variety of deposit products to suit your financial needs. Click this 
 Visit any nearest Metrobank branch, bring your passport or Alien Certificate of Registration (ACR), and the initial deposit requirement.
 </details>
 
+<details>
+<summary>Do you offer foreign currency accounts?</summary>
+Yes. We offer deposit accounts in the following foreign currencies:
+US dollar (USD)
+Canadian dollar (CAD)
+Chinese yuan renminbi (CNY)
+Japanese yen (JPY)
+Sterling pound (GBP)
+Euro (EUR)
+Swiss franc (CHF)
+Australian dollar (AUD)
+Singapore dollar (SGD)
+Please check at the nearest Metrobank branch for their availability of these foreign currency accounts.
+</details>
+
+<details>
+<summary>Can I open an account at any Metrobank branch?</summary>
+Yes. Just bring a valid ID and the initial deposit for the type of account you want to open. For your convenience, go to a Metrobank branch near your home or place of work.
+</details>
+
+<details>
+<summary>What are the interest rates for deposit accounts?</summary>
+Interest rates depend on the account you open. See [here](https://www.metrobank.com.ph/application-requirements) the list of interest rates.
+</details>
+
+<details>
+<summary>How does my deposit account earn interest?</summary>
+Metrobank computes the interest of your deposit account using this formula:
+![image](https://github.com/ildefonsorobinjohn/wiki/assets/65378816/22b93829-9d0e-475b-ae6f-46871b081e97)
+</details>
+
+
 ## ATMs, CAMs, and Branch
  
 <details>
