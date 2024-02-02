@@ -163,5 +163,52 @@
   The NEW Metrobank App is our latest banking app that is linked to Metrobank Online and can be used on your mobile device. Its smart features let you get more from your credit and prepaid cards, and also has a new, customizable look and feel. It’s smart. It’s simple. It’s secure. It’s the NEW Metrobank App!
 </details>
 
+<details>
+  <summary>What features are on the NEW Metrobank App?</summary>
+
+  **Enrolled Contacts** – Enroll your usual payees as “Enrolled Contacts” for faster transactions.
+
+  **Scheduled Transactions** – Schedule your regular transactions, such as bill payments and fund transfers*.
+
+  **Send Money** – Transact with payees easily by sending money.
+  
+  * InstaPay – Send up to PHP 50,000 a day to non-Metrobank accounts. Your payee receives the money instantly.
+  
+  * PESONet* – Transfer up to PHP 200,000 a day to non-Metrobank accounts. The cut-off is at 3 PM, Monday to Friday.
+  \u003cfont size=\"2\"\u003e_*This feature is exclusive to current and savings accounts only._\u003c/font\u003e
+  
+  * Send and receive funds via QR
+
+  **Get more from your Metrobank Credit Card**
+  
+  * Pay Bills – Use your credit card to pay bills for selected billers
+  
+  * Send Money via PayNow – Transfer funds using your credit card as the source
+  
+  * Credit Card Installments:
+    - Cash2Go – Convert your available credit limit to cash
+    - Balance Transfer – Consolidate your balances from your other credit cards to your Metrobank credit card
+    - Balance Conversion – Settle your Metrobank credit card balance through installments\u003cbr\u003e
+  
+  Note that credit card transactions reflect in your monthly statement. To know more about these credit card services, please read the terms and conditions for applicable conditions and fees.
+
+  **Credit Card Activation** – Activate your credit cards right from the app
+
+  **Report Lost Credit Card** – Easily report and permanently block credit cards using the app
+
+  **The NEW Metrobank App also has these standard features which you can use anytime:**
+  
+  * View account balance and details
+  
+  * Send Money and Pay Bills using your deposit, prepaid, or credit card account
+  
+  * View previous, current, and unbilled Metrobank Credit Card transactions
+  
+  However, do note that the app sometimes undergoes maintenance to make sure everything runs smoothly.
+
+  Learn more at [http://metrobank.com.ph/mb-app](http://metrobank.com.ph/mb-app)
+</details>
+
+
 
 
