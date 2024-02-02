@@ -149,7 +149,7 @@
   <p><strong>Get more from your Metrobank Credit Card</strong></p>
   <ul>
     <li>Pay Bills – Use your credit card to pay bills for selected bill
-
+  </ul>
 <details>
   <summary>What is the difference between Metrobank Online, the Metrobank Mobile Banking App, and the NEW Metrobank App?</summary>
   Metrobank Online is our online platform which allows you to do your banking on a browser on any device, whether it’s a personal computer, a laptop, a tablet, or a mobile phone.
@@ -163,7 +163,7 @@
   <summary>Why is Metrobank putting a PHP250,000 daily account limit for bill payment transactions?</summary>
   As part of Metrobank’s efforts to ensure the security of clients’ accounts, it has capped clients’ daily bill payment transaction to PHP250,000 starting 14 April 2023.
 </details>
-   </ul>
+ 
 
 <details>
   <summary>How does the NEW Metrobank app compare to the existing Metrobank Mobile App?</summary>
