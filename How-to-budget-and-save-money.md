@@ -1,4 +1,4 @@
-# Page 1: Saving and Budgeting Tips
+# Saving and Budgeting Tips
 
 It is no secret that the global pandemic has taken a toll on economies around the world. In difficult times like these, it is more important than ever to be mindful of your spending and to make sure that you are saving as much money as possible. While it may seem like a daunting task, making a budget and sticking to it can be surprisingly easy—and incredibly rewarding. Here are our top tips on how to save and budget money.
 
