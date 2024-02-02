@@ -776,3 +776,173 @@
   Yes, InstaPay is secure and protected by the same level of security standards applied to the interbank funds transfer service currently provided by BSP-supervised financial institutions.
 </details>
 
+<details>
+  <summary>How does InstaPay work?</summary>
+
+  The sender’s financial institution will debit your account and instantly transfer the funds to your recipient’s financial institution. The funds will instantly be available in the recipient’s account.
+</details>
+
+<details>
+  <summary>When I send money via InstaPay and when will my beneficiary receive it?</summary>
+
+  Crediting funds is in real-time on InstaPay so your beneficiary will receive it right away.
+</details>
+
+<details>
+  <summary>How can I send money via InstaPay?</summary>
+
+  You must be enrolled in Metrobank Online and the Metrobank Mobile App to send money via InstaPay.\n\nUsing your Metrobank Online:\n\na. Select "Send Money" tab\u003cbr/\u003e\nb. Choose the destination bank.\u003cbr/\u003e\nc. Fill-out the recipient details, amount, and source account.\u003cbr/\u003e\n\nFor the Metrobank Mobile App:\n\na. Choose "Transfer to Other Bank" from the menu.\u003cbr/\u003e\nb. Select "InstaPay".\u003cbr/\u003e\nc. Click Transfer button under "One-Time Transfer."\u003cbr/\u003e\nd. Fill-out the recipient details, choose source account, and input amount.\u003cbr/\u003e \ne. To authenticate your transactions, a one-time password (OTP) will be sent to your registered mobile number.
+</details>
+
+<details>
+  <summary>Is there a transaction fee charged to the sender?</summary>
+
+  Yes, there will be a PHP 25.00 fee charged for every InstaPay transaction.
+</details>
+
+<details>
+  <summary>Will the recipient be charged a transaction fee?</summary>
+
+  No, the beneficiary will not be charged a transaction fee. The full amount sent will be credited to your beneficiary.
+</details>
+
+<details>
+  <summary>How much can I send via InstaPay?</summary>
+
+  You can send up to PHP 50,000 per transaction per day.
+</details>
+
+<details>
+  <summary>How much funds can my beneficiary receive via InstaPay?</summary>
+
+  Receiving limits may differ with every receiving institution. To ensure your transaction is successfully credited, check with your beneficiary’s transaction limits from their receiving institution.
+</details>
+
+<details>
+  <summary>What will happen if I type the wrong account number of my beneficiary?</summary>
+
+  InstaPay transactions are validated through account numbers. In cases that you type a wrong account number, the transaction will not be pushed through if the account number is wrong. We encourage you to obtain the correct account information from your payee to make the transaction hassle-free.
+</details>
+
+<details>
+  <summary>Does the sending institution and receiving institution check the beneficiary's name against the account number?</summary>
+
+  Both sending and receiving institutions validate the account number only. InstaPay participants are not required to match their name against an account number. This is in accordance with BSP Circular No. 980, which states that account number matching will work for domestic account-to-account electronic payments or to implement a transaction. To have a hassle-free transaction, obtain the correct account information from your payee.
+</details>
+
+<details>
+  <summary>Can I cancel an InstaPay transaction?</summary>
+
+  InstaPay transactions are debited from your account and credited to your beneficiary real-time. Once your account has been debited, the transaction made via Metrobank Online or the Metrobank Mobile App is considered final and can no longer be cancelled.
+</details>
+
+<details>
+  <summary>My app’s screen says 'Transaction Successful' but my beneficiary did not receive the funds, how can my beneficiary claim the money I sent?</summary>
+
+  In the case you were notified that the transaction was successful and yet the funds have not been credited to the beneficiary account, there might be a connection issue with BancNet or the receiving institution. Your beneficiary shall contact the receiving institution to know when the funds will be credited.
+</details>
+
+<details>
+  <summary>What is PESONet?</summary>
+
+  PESONet is a fund transfer service available through the Send Money feature of Metrobank Online, where you can transfer money to other bank accounts.\n\nPESONet lets customers of participating banks, e-money issuers or mobile money operators to transfer funds in Philippine peso to customers of other participating banks, e-money issuers or mobile money operators in the Philippines.
+</details>
+
+<details>
+  <summary>Who are the participating financial institutions?</summary>
+
+  You can go to https://www.pesonet.info/ for a list of participating financial institutions (banks and non-banks).
+</details>
+
+<details>
+  <summary>What are the fees and limits for InstaPay</summary>
+
+  For the latest updates on InstaPay fees and limits, please refer to https://metrobank.com.ph/rates-and-fees
+</details>
+
+<details>
+  <summary>What are the fees and limits for PESONet?</summary>
+
+  For the latest updates on PESONet fees and limits, please refer to https://metrobank.com.ph/rates-and-fees.
+</details>
+
+<details>
+  <summary>How long does it take to transfer funds via PESONet?</summary>
+
+  Funds can be made available to the recipient account/s within the day if the transaction was made before 3:00 PM. If the transaction was made after 3:00 PM, it is processed and credited on the next banking day.\n\nFor the latest updates on PESONet fees and limits, please refer to https://metrobank.com.ph/rates-and-fees.
+</details>
+
+<details>
+  <summary>What is QR Ph?</summary>
+
+  QR Ph is a quick, low-cost, and safe method to pay, transfer, and receive funds from other banks and e-money accounts in the Philippines.\n\nIt was launched last November 2019 as the National QR Code standard by the Philippine Payments Management, Inc. (PPMI), under the guidance of the Bangko Sentral ng Pilipinas (BSP).
+</details>
+
+<details>
+  <summary>How can I pay merchants via QR Ph?</summary>
+
+  You can pay merchants via QR Ph in real time with a Metrobank Online account. Just follow the steps below:\n1.\tSelect “QR Code” on the lower dashboard menu\n2.\tChoose “Scan or Upload QR Code” and select “Next” to proceed\n3.\tScan or upload the Merchant QR Ph Code to proceed\n4.\tFill out or validate the following information on the screen and click “Next”\u003cbr\u003e\n    a)\tAmount\u003cbr\u003e\n    b)\tMerchant Type\u003cbr\u003e\n    c)\tSource Account\u003cbr\u003e\n5.\tReview and confirm the transactions details then click “Continue”\n6.\tEnter your Metrobank Passcode and SMS One-Time Password (OTP) to authorize the transaction.\n\nAfter following these steps, you will receive confirmation that your transaction is successful.
+</details>
+
+<details>
+  <summary>How do I know if a merchant can receive QR Ph transactions?</summary>
+
+  The merchant's code must have the QR Ph logo in the middle. Their registered acquiring bank or EMI must also be a Person-to-Merchant (P2M) QR Ph Participant.
+</details>
+
+<details>
+  <summary>Who are the banks/financial institutions capable of receiving merchant payments via QR Ph?</summary>
+
+  These are the receiving participants based on BSP’s list as of April 2022:\n•\tAllBank, Inc.\u003cbr\u003e\n•\tAsia United Bank Corporation\u003cbr\u003e\n•\tBDO Unibank, Inc\u003cbr\u003e\n•\tCard Bank, Inc\u003cbr\u003e\n•\tCebuana Lhuiller Rural Bank\u003cbr\u003e\n•\tG-Xchange, Inc.\u003cbr\u003e\n•\tMetropolitan Bank and Trust Company\u003cbr\u003e\n•\tPayMaya Philippines, Inc.\u003cbr\u003e\n•\tRizal Commercial Banking Corporation\u003cbr\u003e\n•\tRobinsons Bank Corporation\u003cbr\u003e\n•\tStarpay Corporation\u003cbr\u003e\n•\tTayoCash, Inc.\u003cbr\u003e\n•\tUSSC Money Services, Inc.\u003cbr\u003e\n•\tZybi Tech, Inc\u003cbr\u003e
+</details>
+
+<details>
+  <summary>Is there a transaction fee when I pay merchants via QR Ph?</summary>
+
+  Paying merchants via QR Ph is free of charge.
+</details>
+
+<details>
+  <summary>What are the transaction limits of QR Ph?</summary>
+
+  You can send up to PHP 50,000 per transaction per day.
+</details>
+
+<details>
+  <summary>When I pay merchants via QR Ph when will the merchant receive it?</summary>
+
+  QR Ph uses InstaPay so your merchant receives your payment in real time.
+</details>
+
+<details>
+  <summary>How will I know if my payment is in-progress, successful, or failed?</summary>
+
+  After you pay via QR Ph, you get an on-screen message on Metrobank Online that says “In-Progress,” “Success,” or “Failed.”\n\nYou also receive notifications via:\u003cbr\u003e\n•\tAn SMS to your bank registered mobile number\u003cbr\u003e\n•\tAn email to your bank registered email\u003cbr\u003e\n•\tA message in your Metrobank Online inbox\u003cbr\u003e
+</details>
+
+<details>
+  <summary>Can I cancel my QR Ph payment to merchant?</summary>
+
+  No. Once authorized, all transactions via QR Ph are final. The funds are debited from your account and credited to the merchant in real time.
+</details>
+
+<details>
+  <summary>Will the amount always automatically appear when I scan the merchant’s QR?</summary>
+
+  No, it depends on whether your merchant uses a static or a dynamic QR.
+</details>
+
+<details>
+  <summary>What is a “static QR”?</summary>
+
+  When you pay via a static QR, you access the merchant’s QR facility to pay them. You still have to manually enter the amount to be paid.
+</details>
+
+<details>
+  <summary>What is a “dynamic QR”?</summary>
+
+  When you pay via a dynamic QR, you access the merchant’s QR facility where you are automatically shown the amount you have to pay. You cannot edit the amount when paying through this method.
+</details>
+
+
+
