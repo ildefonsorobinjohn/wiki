@@ -29,7 +29,6 @@
     Balance inquiry -- Free
     Withdrawal -- PHP 7.50
   
-
   Other cards
     - Balance inquiry -- PHP 2.00
     - Withdrawal -- PHP 18.00
