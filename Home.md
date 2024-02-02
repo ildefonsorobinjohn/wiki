@@ -2,6 +2,6 @@
 
 Welcome to my wiki! Here are some topics:
 
-- [Page 1](Home/_page1)
-- [Page 2](Home/_page2)
-- [Page 3](Home/_page3)
+- [Page 1](wiki/Page-1)
+- [Page 2](wiki/Page-2)
+- [Page 3](wiki/Page-3)
