@@ -14,7 +14,9 @@
   * A peso or foreign currency deposit account. However, please note that if you have a joint “AND/OR” account and In-Trust-For (ITF) account, you may only use Metrobank Online to view your account balance and transaction history.
 
   Reminder: You would need the following to enroll your account in Metrobank Online:
+
   1. Your active mobile number (postpaid or prepaid) registered with us where we can send an SMS verification code.
+
   2. Your active e-mail address registered with us where we can send an e-mail verification code.
 
   [Click here to view the step-by-step guide on how to sign-up for Metrobank Online.](https://metrobank.com.ph/articles/mbo-signup)
@@ -31,20 +33,32 @@
   <summary>What are the new and current features available in Metrobank Online?</summary>
   You can:
   * Send money to other local banks via InstaPay and PESONet
+
   * Buy prepaid load
+
   * Request cardless withdrawal
+
   * Schedule transactions
+
   * Scan and generate QR code for fund transfers
+
   * Manage your investments in unit investment trust funds (UITFs)
+
   * Make a time deposit placement
+
   * Manage your investment portfolio with Wealth Manager
 
   You can continue enjoying existing functionalities like:
   * View account balance and transaction history
+
   * Bill payments
+
   * Move money to own and other Metrobank accounts
+
   * Order a checkbook
+
   * Download your Statement of Account (SOA)
+
   * Tax Payments
 
   Metrobank Online has also been designed to display better on browsers of smartphones, tablets, laptops, and other devices.
@@ -62,11 +76,17 @@
 
 <details>
   <summary>How secure is it to do bank transactions via Metrobank Online?</summary>
+
   * All messages go through an encryption process to ensure security.
+
   * Only one login session can be active at a time.
+
   * Your username and password secure access to your account.
+
   * Email and SMS verification codes are sent to your registered email address and mobile number.
+
   * A 6-digit Metrobank passcode is required in every transaction.
+
   * Email and SMS notifications on activities and transactions are sent to your registered email address and mobile number.
 </details>
 
@@ -126,19 +146,29 @@
 
 <details>
   <summary>What should I do if I forgot my username?</summary>
+
   1. From the login page, click ’Recover Access’ and choose ‘Username’ tab
+
   2. Provide either the email address or mobile number you registered during signup
+
   3. Enter your 6-digit passcode and click ‘Submit’
+
   4. Your username will be sent to your email address or mobile number.
 </details>
 
 <details>
   <summary>What should I do if I forgot my password?</summary>
+
   1. From the login page, click 'Recover Access' and choose ‘Password’ tab
+
   2. Provide either the email address or mobile number you registered during signup
+
   3. Enter your 6-digit passcode and click ‘Submit’
+
   4. You will be required to enter a verification code sent to your registered mobile number or email address
+
   5. Enter a new password and click ‘Next’
+
   6. Your password has been updated.
 </details>
 
@@ -154,12 +184,19 @@
 
 <details>
   <summary>How do I change my password in Metrobank Online?</summary>
+
   To change your Metrobank Password, follow these steps:
+
   1. Select “Settings” on the navigation bar on the left.
+
   2. Click “Change Password.”
+
   3. Enter your current password.
+
   4. Enter a new password
+
   5. Click “UPDATE.”
+
   6. Enter your 6-digit Metrobank Passcode
 
   After following these steps, your Metrobank Password will be updated.
@@ -178,11 +215,17 @@
 
 <details>
   <summary>How do I change my Metrobank passcode?</summary>
+
   To change your Metrobank Passcode, follow these steps:
+
   1. Select “Settings” on the navigation bar on the left.
+
   2. Click “Change Passcode”.
+
   3. Enter your current 6-digit Metrobank Passcode
+
   4. Nominate a new Metrobank Passcode.
+
   5. Click “UPDATE.”
 
   After following these steps, your Metrobank Passcode will be updated.
@@ -195,18 +238,29 @@
 
 <details>
   <summary>I sometimes get a “server encountered an error” when I access my account. What does that mean?</summary>
+
   Your device internet protocol (IP) could be blocked. Try to login again after changing your device IP.
+
   1. Through a mobile phone, you can follow these steps:
+
     a. Set your phone to airplane mode
+
     b. Turn off airplane mode
+
     c. Reconnect to an internet connection
+
     d. Log in to Metrobank Online
 
   2. Through a Windows computer:
+
     a. Click “Start” then “Run”
+
     b. Type cmd, press “Enter”
+
     d. Your current IP configuration will show
+
     e. Type ipconfig /renew at the prompt window, press “Enter”
+
     f. The server will assign a new IP address for your computer
 </details>
 
@@ -244,11 +298,17 @@
 
 <details>
   <summary>How do I delete accounts and credit cards?</summary>
+
   To delete your Metrobank accounts and credit card, follow these steps:
+
   1. Log in to https://onlinebanking.metrobank.com.ph
+
   2. Click “Deposits” or “Credit Cards” on the menu
+
   3. Select the account to be deleted
+
   4. Click “delete account” on the upper right of the screen
+
   5. Confirm the action by clicking “Yes”
 
   After following these steps, your Metrobank account or credit card will be deleted.
