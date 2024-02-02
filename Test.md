@@ -128,3 +128,9 @@
   Balance Conversion is a special installment product where you can convert your Metrobank credit card’s outstanding balance to installments from three to 60 months.
 </details>
 
+<details>
+  <summary>How to transfer funds and receive funds using Quick Response (QR) Code?</summary>
+  How to transfer funds and receive funds using Quick Response (QR) Code?
+</details>
+
+
