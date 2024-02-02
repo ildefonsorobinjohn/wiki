@@ -77,7 +77,7 @@
     No refunds are allowed once the transaction has been successfully processed and charged to your Metrobank credit card. You need to ensure that the details required to process bills payment and the amount are complete and accurate.
   </details>
 
-  <details>
+<details>
     <summary><b>How do I delete enrolled billers?</b></summary>
     Follow these steps to delete your billers:
     1. Choose “Billers” under the Side Navigation Menu
@@ -89,10 +89,6 @@
   </details>
 </details>
 
-<details>
-  <summary>Why is Metrobank putting a PHP250,000 daily account limit for bill payment transactions?</summary>
-  As part of Metrobank’s efforts to ensure the security of clients’ accounts, it has capped clients’ daily bill payment transaction to PHP250,000 starting 14 April 2023.
-</details>
 
 <details>
   <summary>How does this affect my bill payment transactions via Metrobank Online and the Metrobank App?</summary>
@@ -251,4 +247,11 @@
 
   Yes. The mobile number you register on the NEW Metrobank App should be the same as the mobile number registered at your branch of account.
 </details>
+
+
+<details>
+  <summary>Why is Metrobank putting a PHP250,000 daily account limit for bill payment transactions?</summary>
+  As part of Metrobank’s efforts to ensure the security of clients’ accounts, it has capped clients’ daily bill payment transaction to PHP250,000 starting 14 April 2023.
+</details>
+
 
