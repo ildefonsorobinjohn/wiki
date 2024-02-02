@@ -547,3 +547,204 @@
   No. Instead, you can cancel the scheduled transaction and create a new one.
 </details>
 
+<details>
+  <summary>Can I save details of my frequent transactions?</summary>
+  Yes, you can save the details of another third-party account, biller, or load product with the Add Contacts feature.
+</details>
+
+<details>
+  <summary>Can I enroll third-party accounts? How?</summary>
+  1. Log in to https://onlinebanking.metrobank.com.ph
+  2. Tap on “Contacts” in the menu
+  3. Click plus icon to add account
+  4. Select “Account” tab
+  5. Enter contact name
+  6. Select bank in the drop-down menu
+  7. Enter account details. Click on “Create”
+  8. Enter Metrobank Passcode. Click on “Submit”
+
+  After following these steps, your third-party account will be enrolled as a contact.
+</details>
+
+<details>
+  <summary>Can I perform transactions through Contacts?</summary>
+  Yes, you can perform transactions through Contacts.
+</details>
+
+<details>
+  <summary>Can I delete enrolled Contacts? How?</summary>
+  1. Log in to https://onlinebanking.metrobank.com.ph
+  2. Tap on “Contacts” in the menu
+  3. Select the contact that needs to be deleted
+  4. Click “delete account” then click “Yes”
+  5. Enter Metrobank Passcode. Click on “Submit”
+
+  After following these steps, your contact will be deleted.
+</details>
+
+<details>
+  <summary>What is Cardless Withdrawal?</summary>
+  Metrobank Cardless Withdrawal lets you withdraw cash from any Metrobank or PSBank ATMs without your Metrobank ATM Card.
+
+  For the latest updates on Cardless Withdrawal fees and limits, please refer to [Metrobank Rates and Fees](https://metrobank.com.ph/rates-and-fees).
+</details>
+
+<details>
+  <summary>What are the eligible accounts for Cardless Withdrawal?</summary>
+  All accounts with issued cards (except for Paycard) can do Cardless Withdrawal enrolled on through Metrobank Online.
+</details>
+
+<details>
+  <summary>How much can I withdraw through cardless withdrawal?</summary>
+  The minimum amount is PHP 100, while the maximum amount is PHP 10,000 per transaction. The daily maximum limit is PHP 30,000.
+
+  Note: Any carded withdrawal you perform will reduce the daily maximum limit for your cardless withdrawal.
+</details>
+
+<details>
+  <summary>How do I make a Cardless Withdrawal?</summary>
+  Login to Metrobank Mobile and follow the steps below:
+
+  1. On your Metrobank online dashboard, click the ellipsis (three dots) button.
+  2. Click "Cardless Withdrawal".
+  3. Enter the amount you wish to withdraw and select the source account to withdraw from.
+  4. Nominate a 4-digit PIN as your PIN 1, then tap "Next."
+  5. Review and confirm the details.
+  6. Enter your passcode.
+  7. A 6-digit PIN is generated (This will be PIN 2) and displayed.
+  8. Go to any Metrobank or PSBank ATM.
+  9. Press "Enter".
+  10. Key in the PIN 1, then the PIN 2, then the requested amount.
+</details>
+
+<details>
+  <summary>What is the difference between PIN 1 and PIN 2?</summary>
+  * PIN 1 is any 4-digit number you nominate while creating the Cardless Withdrawal request.
+  * PIN 2 is a system-generated 6-digit number you receive on the Metrobank Mobile app after creating the request.
+</details>
+
+<details>
+  <summary>How long is the validity of the Cardless Withdrawal request?</summary>
+  A requested Cardless Withdrawal is valid for 30 minutes only.
+</details>
+
+<details>
+  <summary>Can I withdraw an amount lower than the amount requested?</summary>
+  No. Partial withdrawal is not allowed.
+</details>
+
+<details>
+  <summary>If I get an error message on the ATM for typing incorrect details, can I try again?</summary>
+  Yes. You have a maximum of three attempts. If you enter incorrect details three times, you will have to create a new request.
+</details>
+
+<details>
+  <summary>How do I download my statement of account on Metrobank Online?</summary>
+  Transactions for the past 30 days can be downloaded in PDF or CSV format. To download your SOA, follow these steps:
+
+  1. On the menu, go to Deposits, then choose the account you want to view the transaction history for.
+  2. Customize your statement of account by choosing the date range, type of transaction, and/or amount range.
+  3. Click ‘Download Statement’.
+  4. Choose between downloading in either PDF or CSV format.
+  5. SOA will be downloaded. If you choose to download using a PDF format, the file is password protected. The password is your last name in lowercase letters and the last four digits of your account.
+
+  The option to download the SOA is only available in Metrobank Online. This option is not currently available in the Metrobank Mobile App.
+</details>
+
+<details>
+  <summary>What date of transactions can I download?</summary>
+  Currently, only transactions for the past 30 days are available for viewing and downloading on Metrobank Online. We are currently working to enhance this feature to a longer date range.
+</details>
+
+<details>
+  <summary>What is the format of the password when I download my SOA using a PDF format?</summary>
+  Please use your last name in lowercase letters, together with the last four (4) digits of your account number. Example: santos1234.
+</details>
+
+<details>
+  <summary>I would like to download my SOA, but I have no transaction history on Metrobank Online, what should I do?</summary>
+  Only past 30-days transactions are available on Metrobank Online. If you have done transactions in the past 30 days but still cannot find any transactions, please check if the date range, type of transaction, and amount range are filtered properly.
+
+  If you still cannot find your previous transactions, refresh your browser or kindly contact our Contact Center hotline at (02) 88-700-700 or Domestic toll-free number: 1-800-1888-5775.
+</details>
+
+<details>
+  <summary>Can I also download my SOA through the Metrobank Mobile App?</summary>
+  Currently, the option to download the SOA is only available on Metrobank Online. This option is not available on the Metrobank Mobile App.
+</details>
+
+<details>
+  <summary>Why can I see transactions in the SOA that are not shown on Metrobank Online?</summary>
+  Transactions across all platforms (Metrobank Online, Metrobank Mobile App, Over-the-Counter, ATMs) will show in the SOA since it gets information from the Deposit system.
+</details>
+
+<details>
+  <summary>What is Metrobank Online tax payment facility?</summary>
+  Metrobank Online Tax Direct Facility is a web-based solution designed to interface with the Electronic Filing and Payment System (EFPS) of the Bureau of Internal Revenue and with the Bank.
+</details>
+
+<details>
+  <summary>How can I use this facility to pay income tax?</summary>
+  To pay for your income tax, follow these steps:
+
+  1. File your tax return at the Bureau of Internal Revenue Electronic Filing and Payment System (BIR EFPS) website at [BIR EFPS](https://efps.bir.gov.ph).
+  2. Upon login, input the necessary details and choose ‘MBTC’ under ‘Transacting Bank’.
+  3. Click on the ‘Submit’ button to proceed with your payment.
+  4. Choose ‘Personal Account’ and click ‘Continue’ to proceed to the direct link page.
+  5. Log in your Metrobank Online username and password.
+  6. Upon login, the tax payment transaction details screen will be displayed. Select the source account to debit.
+  7. Review and confirm the details.
+  8. Enter your 6-digit Metrobank Passcode to authenticate your transaction.
+  9. The BIR pop-up payment confirmation will display.
+  10. A transaction acknowledgment page will appear, confirming your transaction.
+</details>
+
+<details>
+  <summary>How secure is the transmission of my data to the website for tax payment through online?</summary>
+  All transmissions of data done through Metrobank Online are encrypted and secured.
+</details>
+
+<details>
+  <summary>How will I know if my tax payment is successful?</summary>
+  You will receive an SMS and email notification showing that the transaction is successful.
+</details>
+
+<details>
+  <summary>If I encounter any error on my tax payment, what should I do?</summary>
+  If you encounter any error on your tax payment, kindly call our Contact Center Hotline at (02) 88-700-700.
+</details>
+
+<details>
+  <summary>How does this tax payment through Metrobank Online benefit me as a taxpayer?</summary>
+  You are not required to visit the bank to make the payments. Tax payment can be made online at your own convenience.
+</details>
+
+<details>
+  <summary>Can I view my tax payment transaction history?</summary>
+  Yes, this information is available online. You can view your transaction history for the past tax payment transactions made, including immediate and future dated tax payments. You can view up to 30 days.
+
+  By clicking on the Transaction Reference Number, you can view the details of the Tax Payment transaction.
+</details>
+
+<details>
+  <summary>What is InstaPay?</summary>
+  InstaPay is an electronic fund transfer (EFT) service that enables a customer of a participating Bangko Sentral ng Pilipinas (BSP)-supervised financial institution (BSFI) to transfer Philippine Peso funds from their account to another BSFI account. BSP-supervised financial institutions are banks or electronic money issuers.
+
+  InstaPay is part of the National Retail Payment Systems (NRPS) initiative of BSP that seeks to promote electronic payments.
+</details>
+
+<details>
+  <summary>InstaPay can be used for:</summary>
+  * Person-to-person payments
+  * Domestic remittances
+  * Payment to service providers, such as plumbers, electricians, carpenters, etc.
+  * Face-to-face, non-cash payments for goods (for example: sari-sari stores, bazaars, garage sales, etc.)
+  * Donation to charitable institutions
+  * Top-ups on digital wallets like GCash or PayMaya
+</details>
+
+<details>
+  <summary>Is InstaPay secure?</summary>
+  Yes, InstaPay is secure and protected by the same level of security standards applied to the interbank funds transfer service currently provided by BSP-supervised financial institutions.
+</details>
+
