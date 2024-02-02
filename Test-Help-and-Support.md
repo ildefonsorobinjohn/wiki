@@ -5,14 +5,9 @@
 <details>
   <summary>How do I open an account?</summary>
 
-  To open an account, you can follow these steps:
+ Visit any Metrobank branch to open an account. You will be required to submit one valid, photo-bearing ID with your signature and the initial deposit of the account you want to open. Check the complete list [here](https://www.metrobank.com.ph/articles/application-requirements).
 
-  1. Visit our nearest branch with the required documents.
-  2. Fill out the account opening form.
-  3. Present valid IDs for verification.
-  4. Pay the initial deposit.
-
-  Your account will be opened after the completion of these steps.
+You are required to fill up a mandatory [Customer Information Form](https://web-assets.metrobank.com.ph/1622704408-cif-individual.pdf) that will go with your other account requirements.
 
 </details>
 
