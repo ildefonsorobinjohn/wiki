@@ -2,7 +2,20 @@
 
 ## Accounts
 
-- **How do I open an account?**
+<details>
+  <summary>How do I open an account?</summary>
+
+  To open an account, you can follow these steps:
+
+  1. Visit our nearest branch with the required documents.
+  2. Fill out the account opening form.
+  3. Present valid IDs for verification.
+  4. Pay the initial deposit.
+
+  Your account will be opened after the completion of these steps.
+
+</details>
+
 - **What valid IDs can I present?**
 - **How much is the maintaining balance?**
 - **I am a US citizen and would like to open an account. What are the requirements?**
