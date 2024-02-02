@@ -1,11 +1,4 @@
-<details>
-  <summary>ATMs, CAMs and Branch</summary>
-  
-  <div>
-    <img src="https://web-assets.metrobank.com.ph/1669289537-faq-icon_atm-cams-and-branch.png" alt="ATMs, CAMs and Branch Icon">
-  </div>
-  
-  <div>
+ 
     <details>
       <summary>I lost my debit/prepaid card. What do I do?</summary>
       <p>For lost or stolen cards, you need to immediately call our Contact Center hotline at (02) 88-700-700 for your account security. Our bank officers will guide you with the process, including how to get a replacement card. You may also visit any Metrobank branch should you wish to replace the card.</p>
@@ -58,4 +51,4 @@
     </details>
   </div>
 
-</details>
+ 
