@@ -103,3 +103,28 @@
   <summary>Is it possible to increase my daily bill payment transaction limit?</summary>
   Yes, we can change/customize the daily bill payment transaction limit of your account. You may visit or call your branch of account to request for this change. Visit [Metrobank Locator](https://www.metrobank.com.ph/locator) to get the contact details and address of your branch.
 </details>
+
+<details>
+  <summary>How do I send money using your credit card (PayNow)?</summary>
+  → **What is PayNow?**
+  PayNow is a credit card feature that provides electronic fund transfer and payment solution services from an active credit card to select or nominated individual bank accounts.
+</details>
+
+<details>
+  <summary>How to avail of Cash2Go?</summary>
+  → **What is Cash2Go?**
+  Cash2Go is a credit card installment feature which allows you to convert available credit limit in your Metrobank credit card to cash you pay back in installments of three to 60 months.
+</details>
+
+<details>
+  <summary>How to avail of Balance Transfer?</summary>
+  → **What is Balance Transfer?**
+  Balance Transfer is a special credit card installment feature where you can transfer your other credit card balances to your Metrobank credit card and pay in installments of six to 60 months.
+</details>
+
+<details>
+  <summary>How to avail of Balance Conversion?</summary>
+  → **What is Balance Conversion?**
+  Balance Conversion is a special installment product where you can convert your Metrobank credit card’s outstanding balance to installments from three to 60 months.
+</details>
+
