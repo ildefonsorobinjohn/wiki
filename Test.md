@@ -88,36 +88,6 @@
   <summary>What are the International Toll-free hotlines of Metrobank in case I have credit card concerns while abroad?</summary>
 For Metrobank credit card inquiries or concerns while overseas, please refer to our list of Customer Service International Toll-free hotlines per country below.
 
-  COUNTRY	CARRIER	IAC	TOLL FREE NUMBER/REMARKS
-Australia	Optus	11	0011 800 8700 0707
-Telstra	11	0011 800 8700 0707
-Austria	Telekom Austria	0	00 800 8700 0707
-Canada	Teleglobe	11	011 800 8700 0707
-France	France Telecom	0	00 800 8700 0707
-Germany	DTAG	0	00 800 8700 0707
-Hong Kong	Reach HK	1	001 800 8700 0707
-Italy	Telecom Italia	0	00 800 8700 0707
-Japan	Japan Telecom	10	From fixed line with carrier 
-selection with JT
-0041-010	From public phone, mobile, 
-PHS, and fixed line, without 
-carrier selection, 0041 800 8700 0707
-KDD	10	From fixed line with carrier 
-selection with KDD
-001-010	From public phone, mobile, 
-PH and fixed line without 
-carrier selection
-NTT	10	Fixed line with carrier 
-selection with NT
-0033-010	From public phone, mobile, 
-PHS, and fixed line without 
-carrier selection
-Malaysia	Telecom Malaysia	0	00 800 8700 0707
-Singapore	Singtel	1	001 800 8700 0707
-Thailand	CAT	1	001 800 8700 0707
-UK	BT	0	00 800 8700 0707
-C&W	0	00 800 8700 0707
-USA	AT&T	11	011 800 8700 0707
-MCI	11	011 800 8700 0707
-Sprint	11	011 800 8700 0707
+![Screenshot 2024-02-02 at 11 05 09 AM](https://github.com/ildefonsorobinjohn/wiki/assets/65378816/9de895f7-4a3b-4d41-a174-c496e41ee043)
+
 </details>
