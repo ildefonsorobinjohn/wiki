@@ -32,10 +32,12 @@
   Other cards
     Balance inquiry -- PHP 2.00
     Withdrawal -- PHP 18.00
+
   International cards
     Balance inquiry -- USD 1.00
     Withdrawal -- USD 3.50
+
   Withdrawal limit
     The limit per withdrawal is PHP 10,000. The maximum limit in total withdrawals per day is PHP 50,000.
-  Call our Contact Center at (02) 88-700-700 should you need to adjust your withdrawal limit.
+    Call our Contact Center at (02) 88-700-700 should you need to adjust your withdrawal limit.
 </details>
