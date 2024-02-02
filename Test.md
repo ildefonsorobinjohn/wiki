@@ -606,20 +606,31 @@
   Login to Metrobank Mobile and follow the steps below:
 
   1. On your Metrobank online dashboard, click the ellipsis (three dots) button.
+
   2. Click "Cardless Withdrawal".
+
   3. Enter the amount you wish to withdraw and select the source account to withdraw from.
+
   4. Nominate a 4-digit PIN as your PIN 1, then tap "Next."
+
   5. Review and confirm the details.
+
   6. Enter your passcode.
+
   7. A 6-digit PIN is generated (This will be PIN 2) and displayed.
+
   8. Go to any Metrobank or PSBank ATM.
+
   9. Press "Enter".
+
   10. Key in the PIN 1, then the PIN 2, then the requested amount.
 </details>
 
 <details>
   <summary>What is the difference between PIN 1 and PIN 2?</summary>
+
   * PIN 1 is any 4-digit number you nominate while creating the Cardless Withdrawal request.
+
   * PIN 2 is a system-generated 6-digit number you receive on the Metrobank Mobile app after creating the request.
 </details>
 
@@ -687,16 +698,27 @@
   <summary>How can I use this facility to pay income tax?</summary>
   To pay for your income tax, follow these steps:
 
-  1. File your tax return at the Bureau of Internal Revenue Electronic Filing and Payment System (BIR EFPS) website at [BIR EFPS](https://efps.bir.gov.ph).
+  1. File your tax return at the Bureau of Internal Revenue Electronic Filing and Payment System (BIR EFPS) website at [BIR EFPS]
+(https://efps.bir.gov.ph).
+
   2. Upon login, input the necessary details and choose ‘MBTC’ under ‘Transacting Bank’.
+
   3. Click on the ‘Submit’ button to proceed with your payment.
+
   4. Choose ‘Personal Account’ and click ‘Continue’ to proceed to the direct link page.
+
   5. Log in your Metrobank Online username and password.
+
   6. Upon login, the tax payment transaction details screen will be displayed. Select the source account to debit.
+
   7. Review and confirm the details.
+
   8. Enter your 6-digit Metrobank Passcode to authenticate your transaction.
+
   9. The BIR pop-up payment confirmation will display.
+
   10. A transaction acknowledgment page will appear, confirming your transaction.
+
 </details>
 
 <details>
@@ -735,11 +757,17 @@
 
 <details>
   <summary>InstaPay can be used for:</summary>
+
   * Person-to-person payments
+
   * Domestic remittances
+
   * Payment to service providers, such as plumbers, electricians, carpenters, etc.
+
   * Face-to-face, non-cash payments for goods (for example: sari-sari stores, bazaars, garage sales, etc.)
+
   * Donation to charitable institutions
+
   * Top-ups on digital wallets like GCash or PayMaya
 </details>
 
