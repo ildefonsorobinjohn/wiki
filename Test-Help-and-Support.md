@@ -69,10 +69,60 @@ Interest rates depend on the account you open. See [here](https://www.metrobank.
 <details>
 <summary>How does my deposit account earn interest?</summary>
 Metrobank computes the interest of your deposit account using this formula:
- 
 ![Screenshot 2024-02-02 at 10 06 09 AM](https://github.com/ildefonsorobinjohn/wiki/assets/65378816/1cb29bfb-4f3a-4f14-8612-119fc44e1b22)
+</details>
+
+<details>
+<summary>Do you have account types for kids and students?</summary>
+Yes. For those 17 years and below, they could open a Fun Savers Club Account. Meanwhile, young savers aged 7 to 21 years old can open a Spark Savings Account
+</details>
+
+<details>
+<summary>I'm a foreigner. Can I open an account?</summary>
+Yes. All you need to do is to visit any nearest Metrobank branch, bring your passport or Alien Certificate of Registration (ACR), and the initial deposit requirement.
+</details>
+
+<details>
+<summary>I'm working abroad. Can my family in the Philippines open an account for me?</summary>
+No, they cannot open an account under your name. But as your beneficiary, they can open an OFW Savings account under their name in the following currencies:
+
+Philippine peso
+US dollar
+Euro
+Japanese yen
+British pound
+Canadian dollar
+Your beneficiaries only need to bring a valid signature-based ID or government-issued ID, and the initial deposit.
+</details>
+
+<details>
+<summary>I want to dispute a suspicious transaction in my account. How do I file a complaint?</summary>
+ For concerns about duplicate billing, cancelled subscriptions, unauthorized withdrawals or transfers, and other suspicious transaction, you may fill up a [Customer Dispute Form](https://web-assets.metrobank.com.ph/1622705959-client-dispute-form.pdf) and submit to your branch of account. You may also send it via email to [customercare@metrobank.com.ph](mailto:customercare@metrobank.com.ph).
+</details>
+
+<details>
+<summary>I would like to open an account for my business. What are the requirements?</summary>
+ FTo open a business account, visit any Metrobank branch to open an account. You will be required to submit one valid, photo-bearing ID with your signature and the initial deposit of the account you want to open. 
+
+As a business, you are also required to fill up a mandatory [Customer Information Form](https://web-assets.metrobank.com.ph/1622706027-cif-institutional.pdf) that will go with your other account requirements.
+</details>
+
+<details>
+<summary> I lost my passbook. How do I get a replacement?</summary>
+You may request for a new passbook by going to your branch of account and filling up a [Customer Maintenance and Instruction Form](https://web-assets.metrobank.com.ph/1622706167-cmif.pdf). You will also pay the passbook replacement fee of PHP 200.
+</details>
+
+<details>
+<summary> What are the terms and conditions for deposit accounts?</summary>
+Please read Metrobank’s Deposit Terms and Conditions [here](https://web-assets.metrobank.com.ph/1624586882-deposit-terms-and-conditions-as-of-6-25-2021.pdf).
+</details>
 
 
+<details>
+<summary> How do I get a Prepaid Card?</summary>
+Visit any Metrobank branch to open an account. You will be required to submit one valid, photo-bearing ID with your signature and the initial deposit of the account you want to open. You will need to fill up a [Prepaid Card Application Form](https://web-assets.metrobank.com.ph/1622706414-prepaid-card-application-form.pdf) as part of your application.
+
+Check the complete list of valid IDs [here](https://www.metrobank.com.ph/application-requirements).
 </details>
 
 
