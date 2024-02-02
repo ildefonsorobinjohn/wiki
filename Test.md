@@ -133,4 +133,26 @@
   How to transfer funds and receive funds using Quick Response (QR) Code?
 </details>
 
+<details>
+  <summary>What is the difference between Metrobank Online, the Metrobank Mobile Banking App, and the NEW Metrobank App?</summary>
+  Metrobank Online is our online platform which allows you to do your banking on a browser on any device, whether it’s a personal computer, a laptop, a tablet, or a mobile phone.
+  The Metrobank Mobile App is our current banking app which lets you do transactions using your checking and savings accounts on your mobile phone.
+  The NEW Metrobank App is our latest banking app that is linked to Metrobank Online and can be used on your mobile device. Its smart features let you get more from your credit and prepaid cards, and also has a new, customizable look and feel. It’s smart. It’s simple. It’s secure. It’s the NEW Metrobank App!
+</details>
+
+<details>
+  <summary>What features are on the NEW Metrobank App?</summary>
+  <p><strong>Enrolled Contacts</strong> – Enroll your usual payees as “Enrolled Contacts” for faster transactions.</p>
+  <p><strong>Scheduled Transactions</strong> – Schedule your regular transactions, such as bill payments and fund transfers.</p>
+  <p><strong>Send Money</strong> – Transact with payees easily by sending money.</p>
+  <ul>
+    <li>InstaPay – Send up to PHP 50,000 a day to non-Metrobank accounts. Your payee receives the money instantly.</li>
+    <li>PESONet – Transfer up to PHP 200,000 a day to non-Metrobank accounts. The cut-off is at 3 PM, Monday to Friday.</li>
+    <li>Send and receive funds via QR</li>
+  </ul>
+  <p><strong>Get more from your Metrobank Credit Card</strong></p>
+  <ul>
+    <li>Pay Bills – Use your credit card to pay bills for selected bill
+
+
 
