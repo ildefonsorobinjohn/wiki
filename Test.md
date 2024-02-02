@@ -160,6 +160,11 @@
 </details>
 
 <details>
+  <summary>Why is Metrobank putting a PHP250,000 daily account limit for bill payment transactions?</summary>
+  As part of Metrobank’s efforts to ensure the security of clients’ accounts, it has capped clients’ daily bill payment transaction to PHP250,000 starting 14 April 2023.
+</details>
+
+<details>
   <summary>How does the NEW Metrobank app compare to the existing Metrobank Mobile App?</summary>
 
   The NEW Metrobank App offers a fresh look and feel, available in both light and dark mode. Plus, it has a customizable dashboard so you can manage and access your most used features in one place.
@@ -173,85 +178,3 @@
   * Activate your new Metrobank credit card
   * Report and deactivate lost credit card
 </details>
-
-<details>
-  <summary>What do I need to do before the new app is launched?</summary>
-
-  We will reach out if you have to do something to prepare for the NEW Metrobank App. To be specific:
-
-  | Condition                                              | What will happen                                                                                           | What you can do                                                                                   |
-  |--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-  | If you only have credit cards enrolled on the account   | For security purposes, accounts on Metrobank Online and the Metrobank Mobile App that only have credit cards will be deleted.                                            | Don’t worry. You can create a new account on the new app and re-enroll your credit cards.         |
-  | If you have deposit accounts and credit cards mismatch  | For security purposes, only YOU should have access to your own credit card and deposit accounts. Credit cards with details that do not match your deposit account information will be removed by November 11, 2022. | Don’t worry. If a credit card is really yours, you can easily re-enroll it and re-validate your details on the new app. |
-  | If you have scheduled transactions on the old app      | To prevent duplicate transactions on your accounts, all scheduled transactions on the old app after December 15, 2022, are canceled.                                      | For your scheduled transactions to continue uninterrupted, please enroll them on Metrobank Online by the said date, otherwise, you may enroll them again manually once you download the new app. |
-  | If you have accounts, billers, and payees on the old app | Your accounts, payees, and billers on your old app and Metrobank Online accounts will automatically be on the new app. | Note that starting November...
-</details>
-
-<details>
-  <summary>Why should I switch to the NEW Metrobank App?</summary>
-
-  With the NEW Metrobank App, you can customize your dashboard so that you see everything you need at a single glance.
-
-  On top of the app's must-have features, you can now do more with just a few taps:
-  * Send money using your credit card via PayNow
-  * Pay bills using your credit or prepaid card
-  * Get cash installment via Cash2Go
-  * Move your balance from other credit cards with Balance Transfer
-  * Convert purchases to installments with Balance Conversion
-  * Activate your new Metrobank credit card
-  * Report and deactivate lost credit card
-
-  Download the NEW Metrobank App and enjoy a seamless online banking experience anytime, anywhere. Just log in using your existing credentials.
-
-  Learn more at [http://metrobank.com.ph/mb-app](http://metrobank.com.ph/mb-app)
-</details>
-
-<details>
-  <summary>Can I use my Metrobank Online account to log in to the NEW Metrobank App?</summary>
-
-  Yes, your login details on Metrobank Online can be used on the NEW Metrobank App.
-</details>
-
-<details>
-  <summary>Will the data from my old Metrobank Mobile App be transferred to the NEW Metrobank App?​</summary>
-
-  If it is your first time to log in to the NEW Metrobank App or Metrobank Online, you will be asked to verify your email address using an email one-time password (OTP), nominate a six-digit passcode, and verify your mobile number using an SMS OTP.
-
-  Your accounts, payees, and billers on your Metrobank Mobile App and Metrobank Online profiles will be on the new app, but you might see duplicates for those that are enrolled on both platforms. Don’t worry, you can just delete them easily.
-
-  Note that scheduled transactions from the old Metrobank Mobile App will not synch to the NEW Metrobank App to avoid duplicate processing of scheduled transactions.
-</details>
-
-<details>
-  <summary>Where can I find my credit card, prepaid, and YAZZ prepaid card account details on the NEW Metrobank App?</summary>
-
-  On the dashboard, tap Menu then select My Accounts. You may also customize your dashboard so that it shows your credit and prepaid cards.
-</details>
-
-<details>
-  <summary>Where can I find my spouse’s credit card account details on the NEW Metrobank App?</summary>
-
-  If you are the primary cardholder, you may view your spouse’s credit card accounts under My Accounts (supplementary account).
-
-  This is not available if you are not the primary cardholder.
-</details>
-
-<details>
-  <summary>Where can I find my enrolled billers and contacts on the NEW Metrobank App?</summary>
-
-  On the dashboard, tap Menu. Select Billers for viewing of enrolled billers. You may also select Enrolled Contacts if you wish to view your contacts.
-</details>
-
-<details>
-  <summary>Do I have to use the same mobile number registered with my bank or credit card account?</summary>
-
-  Yes. The mobile number you register on the NEW Metrobank App should be the same as the mobile number registered at your branch of account.
-</details>
-
-
-<details>
-  <summary>Why is Metrobank putting a PHP250,000 daily account limit for bill payment transactions?</summary>
-  As part of Metrobank’s efforts to ensure the security of clients’ accounts, it has capped clients’ daily bill payment transaction to PHP250,000 starting 14 April 2023.
-</details>
-
-
