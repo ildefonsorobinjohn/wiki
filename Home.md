@@ -1,1 +1,1 @@
-Welcome to the wiki wiki!
+- [How to budget and save money](wiki/How-to-budget-and-save-money)
