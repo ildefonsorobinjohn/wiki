@@ -69,7 +69,9 @@ Interest rates depend on the account you open. See [here](https://www.metrobank.
 <details>
 <summary>How does my deposit account earn interest?</summary>
 Metrobank computes the interest of your deposit account using this formula:
-![image](https://github.com/ildefonsorobinjohn/wiki/assets/65378816/d2d13e72-be19-4aeb-9c10-7be015ccaef2)
+ 
+![Screenshot 2024-02-02 at 10 06 09 AM](https://github.com/ildefonsorobinjohn/wiki/assets/65378816/1cb29bfb-4f3a-4f14-8612-119fc44e1b22)
+
 
 </details>
 
