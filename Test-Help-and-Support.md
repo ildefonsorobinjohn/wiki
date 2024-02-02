@@ -179,9 +179,166 @@ Call our Contact Center at (02) 88-700-700 should you need to adjust your withdr
 
 ## Debit Cards
 
-- **How can I get a debit card?**
-- **How do I reset my PIN?**
-- **I lost my card. What do I do?**
+<details>
+  <summary>How can I get a debit card?</summary>
+  To get a debit card, simply open a deposit account with Metrobank. You may choose the following:
+  * Spark Savings Account
+  * Regular Savings Account
+  * OFW Savings Account
+  * SSS Pensioner Savings Account
+  * AccountOne
+  Your new card may be issued on the same day you open an account.
+</details>
+
+<details>
+  <summary>How do I reset my PIN?</summary>
+  If you have exceeded the maximum 3 incorrect PIN entries, the ATM Debit Card will be temporarily blocked. You may call our hotline at (02) 88-700-700 should you wish to reset or unblock your PIN.
+  In the event that you have forgotten your ATM Debit Card PIN, please visit your Branch of Account and request for a PIN Mailer to reset your PIN.
+</details>
+
+<details>
+  <summary>I lost my card. What do I do?</summary>
+  If your card is lost or missing, you must immediately report the incident to our Contact Center hotline at (02) 88-700-700 to have it blocked and to request for a replacement.
+</details>
+
+<details>
+  <summary>Where can I find my card's account number?</summary>
+  **OPTION A**
+  See below on how to identify the various parts of your debit card:
+  1. **Card number** -- This identifies your card as a Metrobank-issued Mastercard Debit/Prepaid Card.
+  2. **Card name** -- Identifies the owner of the card (i.e. your full name)
+  3. **Account number** -- Allows you to do financial transactions at Metrobank branches and echannels.
+  4. **Expiry date** -- The date when your card expires. Be sure to have it replaced if the expiration date is near.
+  5. **Mastercard logo (and hologram)** -- Signifies that your card can make purchases at point-of-sale (POS) terminals, make online transactions, and pay without cash (contactless payments) at any Mastercard-affiliated merchant here and abroad.
+  6. **Signature panel** -- Affix your signature immediately upon receiving your new card. This shall be used as verification by the merchant that you are the owner of the card.
+  7. **Security code (CVC2)** -- This is needed when you do online transactions and other payment methods that do not require the physical card to be swiped for the transaction to be completed.
+  8. **Terms and Conditions** -- Guidelines of Metrobank and Mastercard for the use of your card.
+  9. **BancNet logo** -- Signifies that you can withdraw at any BancNet ATMs nationwide, and do PIN-based POS transactions.
+  10. **Maestro/Cirrus logo** -- Signifies that you can withdraw at international ATMs when you travel or work abroad.
+  ![Card Image](https://web-assets.metrobank.com.ph/1606461172-metrobank-prime-card.bmp)
+  **OPTION B**
+  You can find your 13-digit account number on the debit card just below your name.
+  If your account number does not appear on your debit card, please call our Contact Center at (02) 88-700-700 or visit your branch of account.
+</details>
+
+<details>
+  <summary>Can I use my debit card when I'm abroad?</summary>
+  Yes. You can use your Metrobank Prime debit card at any Mastercard-affiliated stores or ATMs. For your convenience, we recommend that you advise us through our Contact Center at (02) 88-700-700 prior to your travel and usage abroad.
+  Upon return, please go to your branch of account and fill out a form to deactivate your card for international use. This ensures security of your card on any unauthorized use abroad.
+</details>
+
+<details>
+  <summary>How do I get a Prepaid Card?</summary>
+  Visit any Metrobank branch to apply for a Prepaid Card. You will be required to fill out a Prepaid Card application form, submit one valid ID with your photo and signature, and a card fee of PHP 100.
+  Learn more about Prepaid Card [here](/save/prepaid-cards).
+</details>
+
+<details>
+  <summary>What transactions can I do with my debit or prepaid card?</summary>
+  Use your Metrobank Prime Debit or Prepaid card to perform the following transactions*:
+  * Withdraw cash from any Metrobank ATM in the Philippines and abroad;
+  * Do Point-of-Sale (POS) transactions by inserting your card and typing your PIN;
+  * Do contactless payments by tapping your card;
+  * Pay for online purchases by keying in your card number and one-time password (OTP), if applicable;
+  * Pay bills, transfer funds, and buy load through our ATMs or mobile app as well as track your expenses online. Just download the Metrobank Mobile App on Google Play or Apple App Store and enroll your account.
+  *These transactions may be performed anywhere Mastercard/Bancnet is accepted.
+</details>
+
+<details>
+  <summary>What are my card’s transaction limits?</summary>
+  Your card's daily limits are as follows:
+  * ATM withdrawal: PHP 50,000 (or its foreign currency equivalent)
+  * POS Transaction: PHP 50,000.00 (or its foreign currency equivalent)
+  * Tap-to-Pay (Contactless payments): PHP 2,000 per day, combined with POS transaction limit
+  * Online or e-Commerce Purchases: PHP 30,000.00 (or its foreign currency equivalent)
+</details>
+
+<details>
+  <summary>Can I request for an increase in transaction limits for my card?</summary>
+  Yes. You may visit any Metrobank branch or call our Customer Care Hotline at (02) 8-8-700-700 to request for a transaction limit increase.
+</details>
+
+<details>
+  <summary>I did not receive an OTP when I used my card to pay for my online purchase. What should I do?</summary>
+  You may proceed with your online purchase without the OTP if the online store did not prompt for the OTP entry.
+  For online shops that require an OTP, but no password was received:
+  * You may click the “Resend” button.
+  * If after clicking the “Resend” button, you still did not receive any OTP, then you may verify with your branch of account if your current mobile number is reflected in your records. If not, visit any branch to update your mobile number.
+  * Please expect to receive OTP the next banking day after updating your contact details with the branch.
+</details>
+
+<details>
+  <summary>What is a Metrobank Prime Debit Mastercard?</summary>
+  The Metrobank Prime Debit Mastercard is the Metrobank debit card with the new look and contactless feature, but with the same functionalities as a standard debit card.
+</details>
+
+<details>
+  <summary>What is a contactless card?</summary>
+  Also known as "tap card," a contactless card enables a secure and faster way to pay by simply tapping the card on any contactless-enabled point-of-sale (POS) terminal. The tap functionality is an added feature available in Metrobank Prime Debit and Prepaid Mastercard.
+</details>
+
+<details>
+  <summary>Where can I use the Metrobank Prime Debit and Prepaid Mastercard with the contactless feature?</summary>
+  You can tap your card in selected stores with contactless-enabled POS terminal for purchases PHP 2,000 and below.
+</details>
+
+<details>
+  <summary>How do I know if my card and the POS terminal are contactless-enabled?</summary>
+  The contactless symbol means that your card and the POS terminal have the capability to make contactless transactions.
+</details>
+
+<details>
+  <summary>What if the POS terminal is not yet contactless-enabled or the merchant does not accept tap transactions using the POS terminal?</summary>
+  You can still use your contactless card for normal card-based transactions by dipping or inserting the card on the POS terminal.
+</details>
+
+<details>
+  <summary>I have the old debit or prepaid card with no contactless feature. Is my card still functional?</summary>
+  Yes, the older debit and prepaid cards are still functional and can still be used for payments.
+</details>
+
+<details>
+  <summary>What if I want to replace my old debit card with Metrobank Prime Debit Mastercard?</summary>
+  You may request a card replacement at any Metrobank branch for a fee of PHP 150.
+</details>
+
+<details>
+  <summary>Are the promos and rewards offered for Metrobank Prime Debit and Prepaid Mastercard applicable to the old debit or prepaid card with no contactless feature?</summary>
+  Yes, all promos and rewards are still applicable to the older debit and prepaid cards, as long as debit and prepaid cards are included in the qualified cards for the promo.
+</details>
+
+<details>
+  <summary>What if I am holding an old white label debit or prepaid card and I want to have the contactless version, but my company is still not capable of issuing contactless cards?</summary>
+  You can open another account to enjoy the full features of contactless payment. Remember that new accounts are subject to individual balance requirements.
+</details>
+
+<details>
+  <summary>What are the security features of the contactless cards?</summary>
+  * Contactless payment cards, including the terminals and network, allow customers to initiate the transaction by holding the contactless payment device within two to four inches of the payment terminal.
+  * The maximum daily limit is PHP 2,000 or its foreign currency equivalent.
+  * If your card is lost, you must immediately report the incident and call the Customer Care Hotline at (02) 88 700-700 for blocking and replacement.
+</details>
+
+<details>
+  <summary>Can I increase or decrease the purchase amount limit for contactless or tap transactions?</summary>
+  Not at this moment. The default aggregate daily limit for contactless transactions is PHP 2,000 only, regardless of the number of transactions within the day.
+</details>
+
+<details>
+  <summary>Do I need to activate the contactless functionality of the card?</summary>
+  No, the contactless functionality is turned on once the contactless card version is activated.
+</details>
+
+<details>
+  <summary>Is my PIN or signature required?</summary>
+  By design, you are not required to sign or enter your card’s PIN for contactless transactions. However, some acquirer merchants require customers to enter their PIN.
+</details>
+
+<details>
+  <summary>Will I be charged for making a contactless payment?</summary>
+  No, there is no extra charge for contactless transactions.
+</details>
+
 
 ## Credit Cards
 
