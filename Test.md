@@ -92,3 +92,196 @@
   No, there is no need to sign up. Just log in to Metrobank Online using your existing username and password. In your first log-in, an account verification process will have to be completed. All enrolled accounts (own and third party), load prepaid, billers, and scheduled transactions are auto-enrolled in your Metrobank Online account. Scheduled transactions will be processed in Metrobank Online to avoid double debit. Make sure to check emails on how to upgrade are coming from us. It should always be from info.communications@metrobank.com.ph.
 </details>
 
+<details>
+  <summary>Can I still use my existing Metrobank Mobile App account when I have successfully set up my Metrobank Online account?</summary>
+  Yes, transactions performed in the Metrobank Mobile App and Metrobank Online will run independently. Doing the same transaction on the Metrobank Mobile App and Metrobank Online will cause double debit.
+</details>
+
+<details>
+  <summary>I have an existing Metrobank Mobile App account without any credit card or deposit account enrolled. Can I log in to Metrobank Online?</summary>
+  No, Metrobank Online requires at least one (1) enrolled credit card or deposit account.
+</details>
+
+<details>
+  <summary>During migration, it says "Something went wrong." What do I do?</summary>
+  Call our Contact Center Hotline at (632) 88-700-700 or Domestic toll-free number: 1-800-1888-5775 to enable the account to upgrade to Metrobank Online.
+</details>
+
+<details>
+  <summary>I got a "You cannot enroll a third-party account as your own account" message. What do I do?</summary>
+  Check if your registered mobile number is the same as in your bank records. If not, please visit your branch of account to have your mobile number updated.
+  You can also update your contact info via the website by following the steps at [Update Your Info](https://metrobank.com.ph/articles/update-your-info).
+</details>
+
+<details>
+  <summary>I did not receive the verification code. What should I do? Until when is it valid?</summary>
+  Check if you entered the correct mobile number and email address. If correct, click on “Send another one” to receive another verification code through SMS and/or email. The verification code is valid for five (5) minutes.
+</details>
+
+<details>
+  <summary>Can I still access Metrobank Online if I change my mobile number?</summary>
+  No. You will need the verification code sent to your registered mobile number to log in. Please coordinate with your branch of account to have your mobile number updated.
+  You can also update your contact info via the website by following the steps at [Update Your Info](https://metrobank.com.ph/articles/update-your-info).
+</details>
+
+<details>
+  <summary>What should I do if I forgot my username?</summary>
+  1. From the login page, click ’Recover Access’ and choose ‘Username’ tab
+  2. Provide either the email address or mobile number you registered during signup
+  3. Enter your 6-digit passcode and click ‘Submit’
+  4. Your username will be sent to your email address or mobile number.
+</details>
+
+<details>
+  <summary>What should I do if I forgot my password?</summary>
+  1. From the login page, click 'Recover Access' and choose ‘Password’ tab
+  2. Provide either the email address or mobile number you registered during signup
+  3. Enter your 6-digit passcode and click ‘Submit’
+  4. You will be required to enter a verification code sent to your registered mobile number or email address
+  5. Enter a new password and click ‘Next’
+  6. Your password has been updated.
+</details>
+
+<details>
+  <summary>Can I retrieve my Metrobank Mobile App username and password through Metrobank Online if I have never logged in to Metrobank Online?</summary>
+  Yes, you may use the recover access through Metrobank Online.
+</details>
+
+<details>
+  <summary>What should I do if I forgot my Metrobank passcode?</summary>
+  Kindly call our Contact Center Hotline at (632) 88-700-700 or Domestic toll-free number: 1-800-1888-5775 for Metrobank passcode reset.
+</details>
+
+<details>
+  <summary>How do I change my password in Metrobank Online?</summary>
+  To change your Metrobank Password, follow these steps:
+  1. Select “Settings” on the navigation bar on the left.
+  2. Click “Change Password.”
+  3. Enter your current password.
+  4. Enter a new password
+  5. Click “UPDATE.”
+  6. Enter your 6-digit Metrobank Passcode
+
+  After following these steps, your Metrobank Password will be updated.
+</details>
+
+<details>
+  <summary>What is card alias?</summary>
+  Card alias is any name that you give to your bank accounts to help you distinguish them from each other. You can edit your account's alias at any time.
+</details>
+
+<details>
+  <summary>What should I do if I forgot my username or password?</summary>
+  From the login page, click “Recover Access” and go to the Username tab. Provide either the email address or mobile number you registered during signup; input your passcode; and submit the request. Your username will be sent to your email address or mobile number. How do I recover my password?
+  From the Metrobank Online Login page, click “Recover Access”. Go to password tab. Provide either the email address or mobile number you registered during signup. Enter your passcode then submit request. Password will be sent to your email address or mobile number.
+</details>
+
+<details>
+  <summary>How do I change my Metrobank passcode?</summary>
+  To change your Metrobank Passcode, follow these steps:
+  1. Select “Settings” on the navigation bar on the left.
+  2. Click “Change Passcode”.
+  3. Enter your current 6-digit Metrobank Passcode
+  4. Nominate a new Metrobank Passcode.
+  5. Click “UPDATE.”
+
+  After following these steps, your Metrobank Passcode will be updated.
+</details>
+
+<details>
+  <summary>Can I use the new password I nominated through Metrobank Online in the Metrobank Mobile App?</summary>
+  Yes. Nominated passwords are synced in the app and Metrobank Online.
+</details>
+
+<details>
+  <summary>I sometimes get a “server encountered an error” when I access my account. What does that mean?</summary>
+  Your device internet protocol (IP) could be blocked. Try to login again after changing your device IP.
+  1. Through a mobile phone, you can follow these steps:
+    a. Set your phone to airplane mode
+    b. Turn off airplane mode
+    c. Reconnect to an internet connection
+    d. Log in to Metrobank Online
+
+  2. Through a Windows computer:
+    a. Click “Start” then “Run”
+    b. Type cmd, press “Enter”
+    d. Your current IP configuration will show
+    e. Type ipconfig /renew at the prompt window, press “Enter”
+    f. The server will assign a new IP address for your computer
+</details>
+
+<details>
+  <summary>I cannot log in; the error reads, “service is still unavailable…”</summary>
+  Call our Contact Center Hotline at (632) 88-700-700 or Domestic toll-free number: 1-800-1888-5775 to log in to Metrobank Online.
+</details>
+
+<details>
+  <summary>I cannot log in; the error says, “Account disabled.” What should I do?</summary>
+  Call our Contact Center Hotline at (632) 88-700-700 or Domestic toll-free number: 1-800-1888-5775 to enable the account.
+</details>
+
+<details>
+  <summary>Why did I receive a verification code when I logged in to Metrobank Online?</summary>
+  As part of the verification process, a code is sent to your registered email address and mobile number on your initial log-in to Metrobank Online, or if you update the versions of the operating system of your mobile phone or desktop browsers.
+</details>
+
+<details>
+  <summary>How do I view balances on Metrobank Online?</summary>
+  * Total deposits for enrolled peso and foreign accounts can be viewed through the dashboard
+  * You can click on Total Deposits or go to the Deposits menu to view balances per account
+  * You can also go to Transaction History to view an account’s running balance
+</details>
+
+<details>
+  <summary>How do I add deposit accounts and credit cards?</summary>
+  [Please click here to view the step-by-step guide to add accounts.](https://www.youtube.com/watch?v=YuBL6P_SFe8)
+</details>
+
+<details>
+  <summary>Why can’t I enroll my credit card?</summary>
+  Please check if the entered details are the same as what is indicated in your credit card. Also, make sure you are enrolling the latest issued card by the bank.
+</details>
+
+<details>
+  <summary>How do I delete accounts and credit cards?</summary>
+  To delete your Metrobank accounts and credit card, follow these steps:
+  1. Log in to https://onlinebanking.metrobank.com.ph
+  2. Click “Deposits” or “Credit Cards” on the menu
+  3. Select the account to be deleted
+  4. Click “delete account” on the upper right of the screen
+  5. Confirm the action by clicking “Yes”
+
+  After following these steps, your Metrobank account or credit card will be deleted.
+</details>
+
+<details>
+  <summary>I noticed that not all shortcuts are available in some of my accounts. Why is this so?</summary>
+  The shortcuts you can see on each account depend on what transactions you are allowed to do using that account. (For example, you cannot order a checkbook using a savings account).
+</details>
+
+<details>
+  <summary>How do I transfer funds to my own account?</summary>
+  Use the “Move Money” feature that allows you to transfer funds to your own enrolled accounts. Please [click here](https://www.youtube.com/watch?v=zNhG5LaKaFA) to view the step-by-step guide to Move Money.
+</details>
+
+<details>
+  <summary>Can I transfer funds if I only have one enrolled account?</summary>
+  You can transfer money to other Metrobank accounts or to accounts of other banks via ‘Send Money’ feature.
+</details>
+
+<details>
+  <summary>Can I transfer funds from a peso to a foreign currency account, and vice versa?</summary>
+  No, funds can only be transferred to accounts of the same currency.
+</details>
+
+<details>
+  <summary>Can I transfer funds to other Metrobank accounts or to accounts of other banks?</summary>
+  You can do this through Send Money, where you can send money to other Metrobank accounts or to accounts of other banks via InstaPay and PESONet. Please [click here](https://www.youtube.com/watch?v=DWN3jFV8V-E) to view the step-by-step guide to Send Money.
+</details>
+
+<details>
+  <summary>How do I transfer funds via InstaPay and PESONet?</summary>
+  Go to "Send Money" menu and enter all the required details. The transaction will go through InstaPay or PESONet depending on the amount and recipient bank.
+</details>
+
+
