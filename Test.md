@@ -281,8 +281,11 @@
 
 <details>
   <summary>How do I view balances on Metrobank Online?</summary>
+
   * Total deposits for enrolled peso and foreign accounts can be viewed through the dashboard
+
   * You can click on Total Deposits or go to the Deposits menu to view balances per account
+
   * You can also go to Transaction History to view an account’s running balance
 </details>
 
@@ -344,4 +347,203 @@
   Go to "Send Money" menu and enter all the required details. The transaction will go through InstaPay or PESONet depending on the amount and recipient bank.
 </details>
 
+<details>
+  <summary>What if the recipient bank is participating in both InstaPay and PESONet, where will my transaction be routed?</summary>
+  Your transaction will automatically be routed to InstaPay if the amount is within the allowed limit of PHP 50,000.00 for immediate crediting and lower service fee.
+</details>
+
+<details>
+  <summary>How to transfer funds using Quick Response (QR) code?</summary>
+  Please [click here](https://www.youtube.com/watch?v=gV2c8Zx6juY) to view the step-by-step guide to transfer funds using QR code.
+</details>
+
+<details>
+  <summary>How to request funds using QR code?</summary>
+  Please [click here](https://www.youtube.com/watch?v=AUZ1oBu8x7E) to view the step-by-step guide to request funds using QR code.
+</details>
+
+<details>
+  <summary>For what transactions can I use the QR code?</summary>
+  The QR code can be used when requesting and transferring funds from a Metrobank account to another Metrobank account or to another bank account via InstaPay.
+</details>
+
+<details>
+  <summary>What is the difference between a regular fund transfer and a QR fund transfer transaction?</summary>
+  Both transactions are the same. The only difference is that you will no longer have to type in the recipient bank, account number, and amount (if provided) whenever you do a QR fund transfer transaction. These are automatically filled up in the transaction form.
+</details>
+
+<details>
+  <summary>Why can’t I scan a QR code?</summary>
+  Metrobank Online may not be allowed to access your camera. To allow access to your camera:<br>
+  a. Launch Metrobank Online in your browser<br>
+  b. Tap the ellipsis (three dots) to find “Settings”<br>
+  c. From Settings, go to “Site settings”<br>
+  d. Tap “Camera”<br>
+  e. Toggle on Camera button
+</details>
+
+<details>
+  <summary>What is the Generate Statement of Account (SOA) function?</summary>
+  It allows you to generate your UITF statement of account online.
+</details>
+
+<details>
+  <summary>What transactions are viewable in the SOA?</summary>
+  You can view all Invest (Add New and Top Up) and Redemption transactions during your preferred reference period when you generate your SOA.
+</details>
+
+<details>
+  <summary>Why can’t I view my transactions from previous months when I generate my SOA?</summary>
+  Only transactions during the reference month will be displayed after you generate your SOA. To view transactions from previous months, please select the date in the calendar.
+</details>
+
+<details>
+  <summary>Can I generate my SOA today?</summary>
+  No, your SOA includes your Net Asset Value Per Unit (NAVPU) of your UITFs. The NAVPU is only computed at the end of a banking day so you can only generate the SOA form from previous days.
+</details>
+
+<details>
+  <summary>What is Update Risk Profile function?</summary>
+  Update Risk Profile allows you to update your Risk Profile online anytime.
+</details>
+
+<details>
+  <summary>Can I invest if my risk profile is expired?</summary>
+  When you select Invest, you will get an on-screen prompt to update your risk profile. This will lead you to the Suitability Assessment Form (SAF).
+</details>
+
+<details>
+  <summary>Why is Metrobank putting a PHP250,000 daily account limit for bill payment transactions?</summary>
+  As part of Metrobank’s efforts to ensure the security of clients’ accounts, it has capped clients’ daily bill payment transaction to PHP250,000 starting 14 April 2023.
+</details>
+
+<details>
+  <summary>How does this affect my bill payment transactions via Metrobank Online and the Metrobank App?</summary>
+  The PHP250,000 daily bill payment transaction limit is applied per Metrobank account. This means, it is your total bills payment transaction limit via Metrobank Online and the Metrobank app.
+</details>
+
+<details>
+  <summary>Is it possible to increase my daily bill payment transaction limit?</summary>
+  Yes, we can change/customize the daily bill payment transaction limit of your account. You may visit or call your branch of account to request for this change. Visit [Metrobank Branch Locator](https://www.metrobank.com.ph/locator) to get the contact details and address of your branch.
+</details>
+
+<details>
+  <summary>I cannot pay an amount with centavo values when using an iOS device. What do I do?</summary>
+
+  You can do one of the following:<br>
+
+  a. Put the cursor after the decimal point.<br>
+
+  b. Overtype the desired centavo amount.<br>
+
+  Alternatively, you can do the following:<br>
+
+  a. Put the cursor on the space beside the last decimal.<br>
+
+  b. Use delete (x) button on the keypad to delete the default zeroes.<br>
+
+  c. Type-in the desired decimal centavo amount.
+</details>
+
+<details>
+  <summary>How long will it take for my transactions to be posted or credited?</summary>
+  Posting of pay bills will take 2 to 3 banking days.
+</details>
+
+<details>
+  <summary>If my transaction is not yet reflected, what should I do?</summary>
+  Kindly call our Contact Center Hotline at (02) 88-700-700 or 1-800-1888-5775 (Domestic Toll-Free Hotline: 1-800-1888-5775) for assistance.
+</details>
+
+<details>
+  <summary>Can I use a peso account to pay a foreign currency biller and vice versa?</summary>
+  No, only the same currency account and biller bills payment are allowed.
+</details>
+
+<details>
+  <summary>How to load a prepaid mobile number?</summary>
+  Please [click here](https://www.youtube.com/watch?v=erTKF_sqIW4) to view the step-by-step guide to Load Prepaid.
+</details>
+
+<details>
+  <summary>Why didn’t I receive my prepaid load request?</summary>
+  Prepaid loading can be delayed due to technical issues and is dependent on your mobile network provider. You can expect your prepaid load request to be processed within 24 hours.
+</details>
+
+<details>
+  <summary>Can I load a postpaid mobile number?</summary>
+  No. Only prepaid mobile numbers can be loaded using this service.
+</details>
+
+<details>
+  <summary>How do I order a checkbook?</summary>
+  Please [click here](https://www.youtube.com/watch?v=lxlDDhqRGIo) to view the step-by-step guide to Order Checkbook.
+</details>
+
+<details>
+  <summary>Can I assign a savings account to be debited for an order checkbook transaction?</summary>
+  No. The transaction has to be debited from a checking account.
+</details>
+
+<details>
+  <summary>Where can I get the checkbook/s?</summary>
+  Checkbooks can be picked up from your branch of account.
+</details>
+
+<details>
+  <summary>What transactions can be scheduled?</summary>
+
+  The following transactions can be scheduled depending on your preferred date and time:
+
+  * Move Money
+
+  * Send Money
+
+  * Pay Bills
+
+  * Load Prepaid
+
+  * Order Checkbook
+
+  * Tax Payment
+</details>
+
+<details>
+  <summary>How to schedule a transaction?</summary>
+  For each transaction, you need to fill in the required fields, choose the Later tab, then select the number of occurrences, and desired date and time of a transaction. Scheduling can also be done for one-time scheduled transactions. Please [click here](https://www.youtube.com/watch?v=LXIWaENuCUs) to view the step-by-step guide on scheduling a transaction.
+</details>
+
+<details>
+  <summary>Can I schedule transactions if my time zone is not the same as Philippine Standard Time (PST)?</summary>
+  Yes, but note that the scheduled transaction will follow PST (GMT+08:00).
+</details>
+
+<details>
+  <summary>Where can I see scheduled transactions?</summary>
+  Scheduled transactions are listed under Pending Transactions in your Dashboard grouped by date in ascending order.
+</details>
+
+<details>
+  <summary>Can I cancel scheduled transactions? How?</summary>
+
+  Yes, if transactions are not yet processed. To cancel your scheduled transactions, please follow these steps:
+
+  1. Log in to https://onlinebanking.metrobank.com.ph
+
+  2. Tap on “Scheduled transactions” under “Pending Transactions”
+
+  3. Click “Cancel Pending Transactions”
+
+  4. On the confirmation pop-up, click on “Yes”
+
+  5. Enter Metrobank Passcode. Click on “Submit”
+
+  6. Cancelled scheduled transaction will no longer display in pending transactions.
+
+</details>
+
+<details>
+  <summary>Can I edit details of scheduled transactions?</summary>
+  No. Instead, you can cancel the scheduled transaction and create a new one.
+</details>
 
