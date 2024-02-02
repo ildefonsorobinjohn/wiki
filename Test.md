@@ -164,17 +164,4 @@
   As part of Metrobank’s efforts to ensure the security of clients’ accounts, it has capped clients’ daily bill payment transaction to PHP250,000 starting 14 April 2023.
 </details>
 
-<details>
-  <summary>How does the NEW Metrobank app compare to the existing Metrobank Mobile App?</summary>
-
-  The NEW Metrobank App offers a fresh look and feel, available in both light and dark mode. Plus, it has a customizable dashboard so you can manage and access your most used features in one place.
-
-  On top of the app's must-have features, you can now do more with just a few taps:
-  * Send money via PayNow using your credit card as a source
-  * Pay bills using your credit or prepaid card
-  * Convert your available credit card limit to cash via Cash2Go
-  * Consolidate balances from your other credit cards to your Metrobank credit card via Balance Transfer
-  * Settle your Metrobank credit card balance through installments via Balance Conversion
-  * Activate your new Metrobank credit card
-  * Report and deactivate lost credit card
-</details>
+ 
