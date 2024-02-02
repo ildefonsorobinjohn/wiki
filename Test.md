@@ -21,10 +21,7 @@
 <details>
   <summary>What are the ATM withdrawal fees and limits?</summary>
   See our ATM fees below:
-
-
   Metrobank
-
     Balance inquiry and withdrawal -- Free
   PSBank
     Balance inquiry -- Free
