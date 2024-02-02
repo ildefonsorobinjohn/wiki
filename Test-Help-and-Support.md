@@ -182,11 +182,17 @@ Call our Contact Center at (02) 88-700-700 should you need to adjust your withdr
 <details>
   <summary>How can I get a debit card?</summary>
   To get a debit card, simply open a deposit account with Metrobank. You may choose the following:
+
   * Spark Savings Account
+
   * Regular Savings Account
+
   * OFW Savings Account
+
   * SSS Pensioner Savings Account
+
   * AccountOne
+
   Your new card may be issued on the same day you open an account.
 </details>
 
@@ -204,19 +210,32 @@ Call our Contact Center at (02) 88-700-700 should you need to adjust your withdr
 <details>
   <summary>Where can I find my card's account number?</summary>
   **OPTION A**
+
   See below on how to identify the various parts of your debit card:
+
   1. **Card number** -- This identifies your card as a Metrobank-issued Mastercard Debit/Prepaid Card.
+
   2. **Card name** -- Identifies the owner of the card (i.e. your full name)
+
   3. **Account number** -- Allows you to do financial transactions at Metrobank branches and echannels.
+
   4. **Expiry date** -- The date when your card expires. Be sure to have it replaced if the expiration date is near.
-  5. **Mastercard logo (and hologram)** -- Signifies that your card can make purchases at point-of-sale (POS) terminals, make online transactions, and pay without cash (contactless payments) at any Mastercard-affiliated merchant here and abroad.
+
+  5. **Mastercard logo (and hologram)** -- Signifies that your card can make purchases at point-of-sale (POS) terminals, make online 
+transactions, and pay without cash (contactless payments) at any Mastercard-affiliated merchant here and abroad.
+
   6. **Signature panel** -- Affix your signature immediately upon receiving your new card. This shall be used as verification by the merchant that you are the owner of the card.
+
   7. **Security code (CVC2)** -- This is needed when you do online transactions and other payment methods that do not require the physical card to be swiped for the transaction to be completed.
+
   8. **Terms and Conditions** -- Guidelines of Metrobank and Mastercard for the use of your card.
+
   9. **BancNet logo** -- Signifies that you can withdraw at any BancNet ATMs nationwide, and do PIN-based POS transactions.
+
   10. **Maestro/Cirrus logo** -- Signifies that you can withdraw at international ATMs when you travel or work abroad.
-  ![Card Image](https://web-assets.metrobank.com.ph/1606461172-metrobank-prime-card.bmp)
+
   **OPTION B**
+
   You can find your 13-digit account number on the debit card just below your name.
   If your account number does not appear on your debit card, please call our Contact Center at (02) 88-700-700 or visit your branch of account.
 </details>
@@ -236,21 +255,33 @@ Call our Contact Center at (02) 88-700-700 should you need to adjust your withdr
 <details>
   <summary>What transactions can I do with my debit or prepaid card?</summary>
   Use your Metrobank Prime Debit or Prepaid card to perform the following transactions*:
+
   * Withdraw cash from any Metrobank ATM in the Philippines and abroad;
+
   * Do Point-of-Sale (POS) transactions by inserting your card and typing your PIN;
+
   * Do contactless payments by tapping your card;
+
   * Pay for online purchases by keying in your card number and one-time password (OTP), if applicable;
-  * Pay bills, transfer funds, and buy load through our ATMs or mobile app as well as track your expenses online. Just download the Metrobank Mobile App on Google Play or Apple App Store and enroll your account.
+
+  * Pay bills, transfer funds, and buy load through our ATMs or mobile app as well as track your expenses online. Just download the 
+Metrobank Mobile App on Google Play or Apple App Store and enroll your account.
+
   *These transactions may be performed anywhere Mastercard/Bancnet is accepted.
 </details>
 
 <details>
   <summary>What are my card’s transaction limits?</summary>
   Your card's daily limits are as follows:
+
   * ATM withdrawal: PHP 50,000 (or its foreign currency equivalent)
+
   * POS Transaction: PHP 50,000.00 (or its foreign currency equivalent)
+
   * Tap-to-Pay (Contactless payments): PHP 2,000 per day, combined with POS transaction limit
+
   * Online or e-Commerce Purchases: PHP 30,000.00 (or its foreign currency equivalent)
+
 </details>
 
 <details>
@@ -314,8 +345,10 @@ Call our Contact Center at (02) 88-700-700 should you need to adjust your withdr
 
 <details>
   <summary>What are the security features of the contactless cards?</summary>
-  * Contactless payment cards, including the terminals and network, allow customers to initiate the transaction by holding the contactless payment device within two to four inches of the payment terminal.
+  * Contactless payment cards, including the terminals and network, allow customers to initiate the transaction by holding the contactless 
+payment device within two to four inches of the payment terminal.
   * The maximum daily limit is PHP 2,000 or its foreign currency equivalent.
+
   * If your card is lost, you must immediately report the incident and call the Customer Care Hotline at (02) 88 700-700 for blocking and replacement.
 </details>
 
