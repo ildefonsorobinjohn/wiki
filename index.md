@@ -4,7 +4,7 @@ Welcome to my KANTOBANK! Here are some topics:
 
 # Job Openings 
 
-1. [Software Engineer](job-1)
+1. [Software Engineer](#job-1)
 2. [Marketing Specialist](#job-2)
 3. [Data Analyst](#job-3)
 4. [Project Manager](#job-4)
