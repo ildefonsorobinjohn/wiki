@@ -7,8 +7,9 @@ We are hiring a Customer Service Representative to assist customers with inquiri
 - High school diploma or equivalent
 - Proven experience as a Customer Service Representative
 - Strong communication and problem-solving skills
+- At least 1 years experience in a related field
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Rank and file
 - **Unit:** Customer Service Team
 - **Location:** BGC Taguig

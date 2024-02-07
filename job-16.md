@@ -7,8 +7,9 @@ We are hiring a Legal Counsel to provide legal advice and support to our organiz
 - Juris Doctor (JD) degree and bar admission
 - Proven experience as a Legal Counsel
 - Knowledge of corporate law and contracts
+- At least 11 years experience in a related field
 
 **Other Details:**
-- **Rank:** Senior
+- **Rank:** Senior Officer
 - **Unit:** Legal Department
 - **Location:** BGC Taguig

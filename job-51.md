@@ -7,8 +7,9 @@ We are seeking an IT Business Analyst to bridge the gap between business needs a
 - Bachelor's degree in Business, IT, or related field
 - Proven experience as an IT Business Analyst
 - Strong analytical and communication skills
+- At least 5 years experience in a related field
 
 **Other Details:**
-- **Rank:** Mid-level
+- **Rank:** Junior Officer
 - **Unit:** Business Analysis Team
 - **Location:** BGC Taguig

@@ -7,8 +7,9 @@ We are hiring a Customer Experience Specialist to ensure positive interactions w
 - Bachelor's degree in Business or related field
 - Proven experience in customer service
 - Excellent communication and problem-solving skills
+- At least 2 years experience in a related field
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Rank and File
 - **Unit:** Customer Experience Team
 - **Location:** Metrobank Plaza

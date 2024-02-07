@@ -9,6 +9,6 @@ We are looking for a skilled System Analyst to analyze and optimize our company'
 - Strong analytical and problem-solving skills
 
 **Other Details:**
-- **Rank:** Mid-level
+- **Rank:** Junior Officer
 - **Unit:** IT Department
 - **Location:** Metrobank Plaza

@@ -9,6 +9,6 @@ We are hiring a Project Coordinator to support project management activities, co
 - Strong organizational and communication skills
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Rank and file
 - **Unit:** Project Management Office
 - **Location:** MCC Center Ayala

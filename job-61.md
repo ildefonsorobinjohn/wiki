@@ -9,6 +9,6 @@ We are seeking a Business Analyst to assess business processes, identify opportu
 - Strong analytical and problem-solving skills
 
 **Other Details:**
-- **Rank:** Mid-level
+- **Rank:** Junior Officer
 - **Unit:** Business Analysis Team
 - **Location:** BGC Taguig

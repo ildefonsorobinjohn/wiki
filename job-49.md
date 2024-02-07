@@ -9,6 +9,6 @@ We are hiring a Systems Administrator to manage and maintain our IT infrastructu
 - Knowledge of networking and system security
 
 **Other Details:**
-- **Rank:** Mid-level
+- **Rank:** Junior Officer
 - **Unit:** IT Department
 - **Location:** BGC Taguig

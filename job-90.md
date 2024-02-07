@@ -9,6 +9,6 @@ We are hiring a Technical Support Engineer to provide technical assistance to ou
 - Strong problem-solving and communication skills
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Rank and file
 - **Unit:** Technical Support Team
 - **Location:** BGC Taguig

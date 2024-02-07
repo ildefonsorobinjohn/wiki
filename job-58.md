@@ -9,6 +9,6 @@ We are hiring a Customer Success Manager to ensure customer satisfaction and ret
 - Strong communication and relationship-building skills
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Rank and file
 - **Unit:** Customer Success Team
 - **Location:** BGC Taguig

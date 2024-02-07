@@ -7,8 +7,9 @@ We are seeking a UX Researcher to conduct user research and provide insights for
 - Bachelor's degree in Human-Computer Interaction, Psychology, or related field
 - Proven experience as a UX Researcher
 - Strong research and analytical skills
+- At least 4 years experience in a related field
 
 **Other Details:**
-- **Rank:** Mid-level
+- **Rank:** Junior Officer
 - **Unit:** UX/UI Team
 - **Location:** MCC Center Ayala

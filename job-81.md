@@ -7,8 +7,9 @@ We are seeking a Business Development Manager to identify growth opportunities, 
 - Bachelor's degree in Business or related field
 - Proven experience as a Business Development Manager
 - Strong sales and negotiation skills
+- At least 5 years experience in a related field
 
 **Other Details:**
-- **Rank:** Senior
+- **Rank:** Senior Officer
 - **Unit:** Business Development Team
 - **Location:** BGC Taguig

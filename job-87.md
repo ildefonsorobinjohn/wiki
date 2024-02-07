@@ -9,6 +9,6 @@ We are hiring a Database Administrator to manage and optimize our databases. The
 - Proficiency in database management systems (e.g., MySQL, Oracle)
 
 **Other Details:**
-- **Rank:** Mid-level
+- **Rank:** Junior Officer
 - **Unit:** Database Administration Team
 - **Location:** Metrobank Plaza

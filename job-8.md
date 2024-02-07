@@ -7,8 +7,9 @@ We are looking for a detail-oriented Financial Analyst to join our Finance Depar
 - Bachelor's degree in Finance or related field
 - CPA or CFA certification is a plus
 - Proficiency in financial modeling tools
+- At least 1 years experience in a related field
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Rand and File
 - **Unit:** Finance Department
 - **Location:** Metrobank Plaza

@@ -7,8 +7,9 @@ We are seeking a Cloud Solutions Architect to design and implement scalable and 
 - Bachelor's degree in Computer Science or related field
 - Proven experience as a Cloud Solutions Architect
 - Certification in cloud platforms (e.g., AWS, Azure, GCP)
+- At least 5 years experience in a related field
 
 **Other Details:**
-- **Rank:** Senior
+- **Rank:** Senior Officer
 - **Unit:** Cloud Architecture Team
 - **Location:** BGC Taguig

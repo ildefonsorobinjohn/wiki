@@ -9,6 +9,6 @@ We are seeking a Marketing Analyst to analyze market trends, track campaign perf
 - Strong analytical and data visualization skills
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Rank and file
 - **Unit:** Marketing Analytics Team
 - **Location:** BGC Taguig

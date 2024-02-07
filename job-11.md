@@ -8,8 +8,9 @@ We are seeking an experienced Database Administrator to join our IT Department. 
 - Proven experience as a Database Administrator
 - Knowledge of database management systems (e.g., Oracle, MySQL)
 - Strong problem-solving and organizational skills
+- At least 5 years experience in a related field
 
 **Other Details:**
-- **Rank:** Mid-level
+- **Rank:** Junior Officer
 - **Unit:** IT Department
 - **Location:** Metrobank Plaza

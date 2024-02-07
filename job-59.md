@@ -9,6 +9,6 @@ We are seeking a DevOps Engineer to streamline our development and operations pr
 - Knowledge of cloud platforms and CI/CD tools
 
 **Other Details:**
-- **Rank:** Mid-level
+- **Rank:** Junior Officer
 - **Unit:** DevOps Team
 - **Location:** BGC Taguig

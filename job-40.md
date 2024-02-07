@@ -7,8 +7,9 @@ We are hiring a Healthcare IT Specialist to support and optimize IT systems in t
 - Bachelor's degree in Healthcare IT or related field
 - Proven experience as a Healthcare IT Specialist
 - Knowledge of healthcare information systems
+- At least 5 years experience in a related field
 
 **Other Details:**
-- **Rank:** Mid-level
+- **Rank:** Junior Officer
 - **Unit:** Healthcare IT Department
 - **Location:** BGC Taguig

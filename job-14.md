@@ -9,6 +9,6 @@ We are seeking a detail-oriented Event Coordinator to organize and execute compa
 - Excellent organizational and communication skills
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Junior Officer
 - **Unit:** Corporate Events Team
 - **Location:** MCC Center Ayala

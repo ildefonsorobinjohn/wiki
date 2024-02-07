@@ -9,6 +9,6 @@ We are seeking a Content Marketing Specialist to create and distribute compellin
 - Strong writing and creative skills
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Rank and file
 - **Unit:** Marketing Team
 - **Location:** BGC Taguig

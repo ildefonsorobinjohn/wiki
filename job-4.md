@@ -8,8 +8,9 @@ We are seeking an experienced Project Manager to oversee and manage key projects
 - Bachelor's degree in Project Management or related field
 - PMP certification is a plus
 - Strong organizational and communication skills
+- At least 8 years experience in a related field
 
 **Other Details:**
-- **Rank:** Senior
+- **Rank:** Senior Officer
 - **Unit:** Project Management Office
 - **Location:** BGC Taguig

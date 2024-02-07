@@ -9,6 +9,6 @@ We are hiring a Software Engineer to design, develop, and maintain software solu
 - Proficiency in programming languages (e.g., Java, Python)
 
 **Other Details:**
-- **Rank:** Mid-level
+- **Rank:** Junior Officer
 - **Unit:** Software Development Team
 - **Location:** BGC Taguig

@@ -7,9 +7,10 @@ We are looking for a dynamic Marketing Specialist to join our Marketing Departme
 - Bachelor's degree in Marketing or a related field
 - Proven experience with digital marketing campaigns
 - Excellent communication and creative skills
+- At least 1 years experience in a related field
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Rank and File
 - **Unit:** Marketing Department
 - **Location:** Metrobank Plaza
 

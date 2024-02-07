@@ -9,6 +9,6 @@ We are hiring a Supply Chain Analyst to optimize our supply chain processes. The
 - Knowledge of supply chain principles and tools
 
 **Other Details:**
-- **Rank:** Mid-level
+- **Rank:** Rank and file
 - **Unit:** Supply Chain Team
 - **Location:** MCC Center Ayala

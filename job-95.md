@@ -9,6 +9,6 @@ We are seeking a Sales Manager to lead and oversee our sales team, set sales tar
 - Strong leadership and negotiation skills
 
 **Other Details:**
-- **Rank:** Senior
+- **Rank:** Senior Officer
 - **Unit:** Sales Department
 - **Location:** BGC Taguig

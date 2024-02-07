@@ -7,8 +7,9 @@ We are hiring a Quality Assurance Analyst to ensure the quality of our products 
 - Bachelor's degree in Computer Science or related field
 - Proven experience as a Quality Assurance Analyst
 - Knowledge of testing methodologies and tools
+- At least 5 years experience in a related field
 
 **Other Details:**
-- **Rank:** Mid-level
+- **Rank:** Junior Officer
 - **Unit:** Quality Assurance Team
 - **Location:** BGC Taguig

@@ -9,6 +9,6 @@ We are hiring an Environmental Sustainability Analyst to assess and improve our 
 - Knowledge of environmental regulations
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Rank and File
 - **Unit:** Sustainability Team
 - **Location:** BGC Taguig

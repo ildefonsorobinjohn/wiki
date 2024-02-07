@@ -7,8 +7,9 @@ We are hiring an IT Project Manager to lead and oversee IT projects from initiat
 - Bachelor's degree in IT or related field
 - Proven experience as an IT Project Manager
 - Project Management Professional (PMP) certification
+- At least 11 years experience in a related field
 
 **Other Details:**
-- **Rank:** Senior
+- **Rank:** Senior Officer
 - **Unit:** Project Management Office
 - **Location:** BGC Taguig

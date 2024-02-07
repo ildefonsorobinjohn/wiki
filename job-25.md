@@ -7,8 +7,9 @@ We are hiring a Human Resources Manager to lead our HR Department. The successfu
 - Master's degree in Human Resources or related field
 - Proven experience as an HR Manager
 - Strong leadership and strategic HR skills
+- At least 15 years experience in a related field
 
 **Other Details:**
-- **Rank:** Senior
+- **Rank:** Senior Officer
 - **Unit:** Human Resources Department
 - **Location:** MCC Center Ayala

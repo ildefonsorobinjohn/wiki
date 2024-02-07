@@ -9,6 +9,6 @@ We are hiring an IT Auditor to assess information systems, identify risks, and e
 - CISA or related certification
 
 **Other Details:**
-- **Rank:** Mid-level
+- **Rank:** Junior Officer
 - **Unit:** Internal Audit Team
 - **Location:** Metrobank Plaza

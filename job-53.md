@@ -9,6 +9,6 @@ We are hiring a Facilities Manager to oversee the maintenance and operations of 
 - Knowledge of building systems and maintenance
 
 **Other Details:**
-- **Rank:** Senior
+- **Rank:** Senior Officer
 - **Unit:** Facilities Management Team
 - **Location:** MCC Center Ayala

@@ -9,6 +9,6 @@ We are seeking a talented Software Architect to design and develop high-quality 
 - Strong knowledge of software design principles and patterns
 
 **Other Details:**
-- **Rank:** Senior
+- **Rank:** Senior Officer
 - **Unit:** Software Development Team
 - **Location:** BGC Taguig

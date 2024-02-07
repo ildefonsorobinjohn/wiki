@@ -7,8 +7,9 @@ We are looking for a skilled Network Security Analyst to ensure the security of 
 - Bachelor's degree in Information Security or related field
 - Proven experience as a Network Security Analyst
 - Certifications such as CISSP or CompTIA Security+
+- At least 5 years experience in a related field
 
 **Other Details:**
-- **Rank:** Mid-level
+- **Rank:** Junior Officer
 - **Unit:** IT Security Team
 - **Location:** BGC Taguig

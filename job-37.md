@@ -9,6 +9,6 @@ We are seeking a creative and experienced UX/UI Lead to lead our design team. Th
 - Strong leadership and collaboration skills
 
 **Other Details:**
-- **Rank:** Senior
+- **Rank:** Senior Officer
 - **Unit:** Design Team
 - **Location:** BGC Taguig

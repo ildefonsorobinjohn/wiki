@@ -9,6 +9,6 @@ We are seeking a Business Development Manager to identify business opportunities
 - Strong communication and negotiation skills
 
 **Other Details:**
-- **Rank:** Senior
+- **Rank:** Senior Officer
 - **Unit:** Business Development Team
 - **Location:** BGC Taguig

@@ -7,8 +7,9 @@ We are seeking a Mobile App Developer to design and develop mobile applications 
 - Bachelor's degree in Computer Science or related field
 - Proven experience as a Mobile App Developer
 - Proficiency in mobile programming languages
+- At least 7 years experience in a related field
 
 **Other Details:**
-- **Rank:** Mid-level
+- **Rank:** Junior Officer
 - **Unit:** Mobile App Development Team
 - **Location:** BGC Taguig

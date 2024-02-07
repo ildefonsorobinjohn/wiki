@@ -7,8 +7,9 @@ We are seeking a Logistics Coordinator to manage and coordinate logistics operat
 - Bachelor's degree in Logistics, Supply Chain, or related field
 - Proven experience as a Logistics Coordinator
 - Knowledge of logistics processes and systems
+- At least 3 years experience in a related field
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Rank and file
 - **Unit:** Logistics Team
 - **Location:** BGC Taguig

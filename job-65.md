@@ -7,8 +7,9 @@ We are hiring a Network Engineer to design, implement, and manage our organizati
 - Bachelor's degree in Network Engineering or related field
 - Proven experience as a Network Engineer
 - Cisco or other relevant certifications
+- At least 5 years experience in a related field
 
 **Other Details:**
-- **Rank:** Mid-level
+- **Rank:** Junior Officer
 - **Unit:** IT Department
 - **Location:** BGC Taguig

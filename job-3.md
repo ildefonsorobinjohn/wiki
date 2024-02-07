@@ -7,9 +7,10 @@ We are hiring a skilled Data Analyst to join our Data Analytics Team. The candid
 - Strong analytical and statistical skills
 - Experience with data visualization tools (Tableau, Power BI)
 - Knowledge of SQL and data querying
+- At least 5 years experience in a related field
 
 **Other Details:**
-- **Rank:** Mid-level
+- **Rank:** Junior Officer
 - **Unit:** Data Analytics Team
 - **Location:** MCC Center Ayala
 

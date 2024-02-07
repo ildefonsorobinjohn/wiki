@@ -7,8 +7,9 @@ We are hiring a Financial Analyst to analyze financial data, prepare reports, an
 - Bachelor's degree in Finance, Accounting, or related field
 - Proven experience as a Financial Analyst
 - Strong analytical and modeling skills
+- At least 5 years experience in a related field
 
 **Other Details:**
-- **Rank:** Mid-level
+- **Rank:** Junior Officer
 - **Unit:** Finance Department
 - **Location:** Metrobank Plaza

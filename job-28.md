@@ -7,8 +7,9 @@ We are seeking a Procurement Specialist to manage the purchasing process for our
 - Bachelor's degree in Business or related field
 - Proven experience as a Procurement Specialist
 - Strong negotiation and communication skills
+- At least 1 years experience in a related field
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Rank and file
 - **Unit:** Procurement Department
 - **Location:** MCC Center Ayala

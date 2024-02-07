@@ -7,8 +7,9 @@ We are hiring an IT Support Specialist to provide technical assistance and suppo
 - Bachelor's degree in IT or related field
 - Proven experience as an IT Support Specialist
 - Strong problem-solving and communication skills
+- At least 1 years experience in a related field
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Rank and file
 - **Unit:** IT Support Team
 - **Location:** BGC Taguig

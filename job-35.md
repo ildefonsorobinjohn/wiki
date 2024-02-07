@@ -9,6 +9,6 @@ We are hiring a Legal Analyst to support our Legal Department. The candidate wil
 - Strong analytical and research skills
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Rank and file
 - **Unit:** Legal Department
 - **Location:** MCC Center Ayala

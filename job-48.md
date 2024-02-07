@@ -7,8 +7,9 @@ We are seeking a Social Impact Coordinator to plan and coordinate corporate soci
 - Bachelor's degree in Social Sciences, Sustainability, or related field
 - Proven experience in corporate social responsibility
 - Strong project management skills
+- At least 1 years experience in a related field
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Rank and file
 - **Unit:** Corporate Social Responsibility Team
 - **Location:** BGC Taguig

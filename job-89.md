@@ -9,6 +9,6 @@ We are hiring a Financial Planner to assist clients in achieving their financial
 - Certified Financial Planner (CFP) designation
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Rank and file
 - **Unit:** Financial Planning Team
 - **Location:** MCC Center Ayala

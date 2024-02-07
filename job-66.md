@@ -9,6 +9,6 @@ We are seeking an Event Coordinator to plan and execute corporate events and act
 - Strong organizational and multitasking skills
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Rank and file
 - **Unit:** Events Team
 - **Location:** BGC Taguig

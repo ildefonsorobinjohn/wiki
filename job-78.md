@@ -9,6 +9,6 @@ We are seeking an HR Coordinator to support various HR functions, including recr
 - Knowledge of HR policies and procedures
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Rand and file
 - **Unit:** Human Resources Department
 - **Location:** Metrobank Plaza

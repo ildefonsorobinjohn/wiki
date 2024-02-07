@@ -9,6 +9,6 @@ We are seeking a Digital Marketing Manager to develop and execute digital market
 - Knowledge of digital marketing tools and analytics
 
 **Other Details:**
-- **Rank:** Senior
+- **Rank:** Senior Officer
 - **Unit:** Digital Marketing Team
 - **Location:** BGC Taguig

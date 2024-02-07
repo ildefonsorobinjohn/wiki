@@ -9,6 +9,6 @@ We are hiring an IT Security Consultant to provide expertise in securing informa
 - Certifications such as CISSP or CISM
 
 **Other Details:**
-- **Rank:** Senior
+- **Rank:** Senior Officer
 - **Unit:** IT Security Team
 - **Location:** BGC Taguig

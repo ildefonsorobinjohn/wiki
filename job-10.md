@@ -7,8 +7,9 @@ We are seeking dynamic Sales Executives to join our Sales Team. The candidates w
 - Bachelor's degree in Business or related field
 - Proven sales experience
 - Strong negotiation and communication skills
+- At least 5 years experience in a related field
 
 **Other Details:**
-- **Rank:** Mid-level
+- **Rank:** Junior Officer
 - **Unit:** Sales Department
 - **Location:** MCC Center Ayala

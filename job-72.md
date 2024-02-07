@@ -7,8 +7,9 @@ We are seeking a Marketing Coordinator to assist in the implementation of market
 - Bachelor's degree in Marketing or related field
 - Proven experience as a Marketing Coordinator
 - Knowledge of marketing tools and techniques
+- At least 5 years experience in a related field
 
 **Other Details:**
-- **Rank:** Mid-level
+- **Rank:** Junior Officer
 - **Unit:** Marketing Department
 - **Location:** Metrobank Plaza

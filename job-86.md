@@ -9,6 +9,6 @@ We are seeking a Health and Safety Officer to promote a safe and healthy work en
 - Knowledge of safety regulations and best practices
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Rand and file
 - **Unit:** Health and Safety Team
 - **Location:** BGC Taguig

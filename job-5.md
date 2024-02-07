@@ -7,8 +7,9 @@ We are looking for a skilled Network Administrator to maintain and support our c
 - Bachelor's degree in Information Technology or related field
 - Cisco Certified Network Associate (CCNA) is a plus
 - Experience with network security and protocols
+- At least 5 years experience in a related field
 
 **Other Details:**
-- **Rank:** Mid-level
+- **Rank:** Junior Officer
 - **Unit:** IT Department
 - **Location:** Metrobank Plaza

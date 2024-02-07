@@ -9,6 +9,6 @@ We are seeking a Data Entry Clerk to input and manage data in our systems. The c
 - Attention to detail and accuracy
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Rand and file
 - **Unit:** Data Entry Team
 - **Location:** MCC Center Ayala

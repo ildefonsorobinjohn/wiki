@@ -7,8 +7,9 @@ We are hiring a Social Media Manager to develop and implement social media strat
 - Bachelor's degree in Marketing, Communications, or related field
 - Proven experience as a Social Media Manager
 - Knowledge of social media trends and tools
+- At least 1 year experience in a related field
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Rank and file
 - **Unit:** Social Media Team
 - **Location:** BGC Taguig

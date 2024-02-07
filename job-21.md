@@ -6,8 +6,9 @@ We are hiring a Software Quality Engineer to ensure the quality and functionalit
 - Bachelor's degree in Computer Science or related field
 - Proven experience as a Software Quality Engineer
 - Familiarity with testing tools and methodologies
+- At least 7 years experience in a related field
 
 **Other Details:**
-- **Rank:** Mid-level
+- **Rank:** Junior Officer
 - **Unit:** Quality Assurance Team
 - **Location:** Metrobank Plaza

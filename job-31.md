@@ -10,6 +10,6 @@ We are seeking an experienced IT Project Manager to lead and oversee IT projects
 - Excellent organizational and leadership skills
 
 **Other Details:**
-- **Rank:** Senior
+- **Rank:** Senior Officer
 - **Unit:** Project Management Office
 - **Location:** BGC Taguig

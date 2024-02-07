@@ -7,8 +7,9 @@ We are looking for a creative Social Media Specialist to manage and enhance our 
 - Bachelor's degree in Marketing, Communications, or related field
 - Proven experience as a Social Media Specialist
 - Familiarity with social media analytics tools
+- Fresh graduates are welcome
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Rank and file
 - **Unit:** Marketing Department
 - **Location:** MCC Center Ayala

@@ -9,6 +9,6 @@ We are looking for a talented Graphic Designer to create visual concepts and com
 - Proficiency in design software and creative thinking
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Rank and file
 - **Unit:** Creative Team
 - **Location:** Metrobank Plaza

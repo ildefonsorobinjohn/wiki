@@ -7,8 +7,9 @@ We are seeking a skilled Content Writer to create engaging and informative conte
 - Bachelor's degree in English, Journalism, or related field
 - Proven experience as a Content Writer
 - Exceptional writing and editing skills
+- Fresh graduates are welcome
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Rank and file
 - **Unit:** Content Team
 - **Location:** MCC Center Ayala

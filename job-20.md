@@ -7,8 +7,9 @@ We are seeking a Business Analyst to analyze and interpret data to inform busine
 - Bachelor's degree in Business or related field
 - Proven experience as a Business Analyst
 - Strong analytical and communication skills
+- At least 5 years experience in a related field
 
 **Other Details:**
-- **Rank:** Mid-level
+- **Rank:** Junior Officer
 - **Unit:** Business Analysis Team
 - **Location:** Metrobank Plaza

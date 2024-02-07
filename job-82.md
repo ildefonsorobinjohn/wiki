@@ -7,8 +7,9 @@ We are looking for a UX/UI Designer to create visually appealing and user-friend
 - Bachelor's degree in Design, HCI, or related field
 - Proven experience as a UX/UI Designer
 - Proficiency in design tools (e.g., Sketch, Figma)
+- At least 5 years experience in a related field
 
 **Other Details:**
-- **Rank:** Mid-level
+- **Rank:** Junior Officer
 - **Unit:** UX/UI Design Team
 - **Location:** Metrobank Plaza

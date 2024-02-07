@@ -7,8 +7,9 @@ We are hiring an Executive Assistant to provide administrative support to our ex
 - Bachelor's degree in Business Administration or related field
 - Proven experience as an Executive Assistant
 - Strong organizational and multitasking skills
+- At least 5 years experience in a related field
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Junior Officer
 - **Unit:** Executive Office
 - **Location:** MCC Center Ayala

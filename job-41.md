@@ -7,8 +7,9 @@ We are seeking an experienced Digital Marketing Manager to develop and execute c
 - Bachelor's degree in Marketing, Communications, or related field
 - Proven experience as a Digital Marketing Manager
 - In-depth knowledge of SEO, SEM, and social media platforms
+- At least 12 years experience in a related field
 
 **Other Details:**
-- **Rank:** Senior
+- **Rank:** Senior Officer
 - **Unit:** Marketing Department
 - **Location:** Metrobank Plaza

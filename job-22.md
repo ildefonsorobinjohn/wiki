@@ -9,6 +9,6 @@ We are looking for a creative Graphic Designer to join our Design Team. The cand
 - Proficiency in design tools (Adobe Creative Suite)
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Rand and File
 - **Unit:** Design Team
 - **Location:** MCC Center Ayala

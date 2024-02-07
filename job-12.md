@@ -9,6 +9,6 @@ We are looking for a creative and skilled Content Writer to join our Marketing t
 - Excellent writing and editing skills
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Rank and File
 - **Unit:** Marketing Department
 - **Location:** BGC Taguig

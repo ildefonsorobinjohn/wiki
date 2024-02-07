@@ -7,8 +7,9 @@ We are seeking an HR Generalist to support various HR functions, including recru
 - Bachelor's degree in Human Resources or related field
 - Proven experience as an HR Generalist
 - Knowledge of HR policies and procedures
+- At least 1 years experience in a related field
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Rank and file
 - **Unit:** Human Resources Department
 - **Location:** MCC Center Ayala

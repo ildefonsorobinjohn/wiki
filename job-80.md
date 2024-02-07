@@ -9,6 +9,6 @@ We are seeking a Public Health Analyst to analyze health data, conduct research,
 - Strong research and analytical skills
 
 **Other Details:**
-- **Rank:** Mid-level
+- **Rank:** Junior Officer
 - **Unit:** Public Health Team
 - **Location:** BGC Taguig

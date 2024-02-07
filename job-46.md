@@ -9,6 +9,6 @@ We are seeking a Learning and Development Specialist to design and implement tra
 - Strong presentation and communication skills
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Rand and file
 - **Unit:** Learning and Development Team
 - **Location:** Metrobank Plaza

@@ -7,8 +7,9 @@ We are looking for a creative Content Strategist to develop and implement conten
 - Bachelor's degree in Marketing, Communications, or related field
 - Proven experience as a Content Strategist
 - Strong analytical and creative thinking skills
+- At least 6 years experience in a related field
 
 **Other Details:**
-- **Rank:** Mid-level
+- **Rank:** Junior Officer
 - **Unit:** Marketing Department
 - **Location:** BGC Taguig

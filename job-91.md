@@ -9,6 +9,6 @@ We are seeking a Data Scientist to analyze and interpret complex data sets, deve
 - Strong programming and analytical skills
 
 **Other Details:**
-- **Rank:** Senior
+- **Rank:** Senior Officer
 - **Unit:** Data Science Team
 - **Location:** BGC Taguig

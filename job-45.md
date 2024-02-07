@@ -9,6 +9,6 @@ We are hiring a Cybersecurity Analyst to monitor and analyze security threats to
 - Knowledge of security tools and technologies
 
 **Other Details:**
-- **Rank:** Mid-level
+- **Rank:** Junior Officer
 - **Unit:** IT Security Team
 - **Location:** MCC Center Ayala

@@ -7,8 +7,9 @@ We are seeking a Health and Safety Officer to ensure a safe and healthy work env
 - Bachelor's degree in Occupational Health and Safety or related field
 - Proven experience as a Health and Safety Officer
 - Knowledge of occupational health and safety regulations
+- At least 1 years experience in a related field
 
 **Other Details:**
-- **Rank:** Associate
+- **Rank:** Rank and file
 - **Unit:** Health and Safety Department
 - **Location:** BGC Taguig

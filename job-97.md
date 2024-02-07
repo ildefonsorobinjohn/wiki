@@ -7,8 +7,9 @@ We are seeking a Software Quality Assurance Engineer to ensure the quality of ou
 - Bachelor's degree in Computer Science or related field
 - Proven experience as a QA Engineer
 - Knowledge of testing methodologies and tools
+- At least 5 years experience in a related field
 
 **Other Details:**
-- **Rank:** Mid-level
+- **Rank:** Junior Officer
 - **Unit:** QA Team
 - **Location:** Metrobank Plaza
