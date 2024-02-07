@@ -1,8 +1,8 @@
 # YOU'RE IN GOOD HANDS!!!
 
-Welcome to my KANTOBANK! Here are some topics:
+Welcome to my KANTOBANK! Here are the list of **Job Opening**:
 
-# Job Openings 
+ 
 
 1. [Software Engineer](job-1)
 2. [Marketing Specialist](job-2)
