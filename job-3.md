@@ -1,4 +1,4 @@
-## Position: **Data Analyst** <a name="job-3"></a>
+## Position: **Data Analyst**  
 
 **Job Summary:**  
 We are hiring a skilled Data Analyst to join our Data Analytics Team. The candidate will be responsible for analyzing and interpreting complex data sets, providing valuable insights to support decision-making.
