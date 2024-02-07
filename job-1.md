@@ -10,6 +10,6 @@ We are seeking a talented Software Engineer to join our IT Department. The ideal
 - Strong problem-solving and analytical skills
 
 **Other Details:**
-- **Rank:** Senior
+- **Rank:** Senior Officer
 - **Unit:** IT Department
 - **Location:** BGC Taguig
