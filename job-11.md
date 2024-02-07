@@ -1,4 +1,4 @@
-## **Position: Database Administrator**
+## **Position: Database Administrator** 
 
 **Job Summary:**  
 We are seeking an experienced Database Administrator to join our IT Department. The ideal candidate will be responsible for the design, implementation, and maintenance of our database systems.
