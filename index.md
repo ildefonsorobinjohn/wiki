@@ -2,7 +2,6 @@
 
 Welcome to my KANTOBANK! Here are the list of **Job Opening**:
 
-
 1. [Software Engineer](job-1)
 2. [Marketing Specialist](job-2)
 3. [Data Analyst](job-3)
